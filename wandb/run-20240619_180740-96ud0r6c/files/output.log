@@ -1,0 +1,367 @@
+
+  0%|          | 0/50 [00:00<?, ?it/s]
+Average Test Loss: 7897761.8125
+Epoch [1/50], Step [40/160], Loss: 7898298.0
+Average Test Loss: 7888250.25
+Epoch [1/50], Step [40/160], Loss: 7887905.0
+Average Test Loss: 7876115.0125
+
+  2%|▏         | 1/50 [00:26<21:42, 26.59s/it]
+Average Test Loss: 7862104.5125
+Epoch [2/50], Step [40/160], Loss: 7862123.0
+Average Test Loss: 7850575.2
+Epoch [2/50], Step [40/160], Loss: 7851200.5
+Average Test Loss: 7839287.6875
+
+  4%|▍         | 2/50 [00:51<20:18, 25.39s/it]
+Average Test Loss: 7825827.1
+Epoch [3/50], Step [40/160], Loss: 7825845.5
+Average Test Loss: 7814534.825
+Epoch [3/50], Step [40/160], Loss: 7815137.0
+Average Test Loss: 7803347.8
+
+  6%|▌         | 3/50 [01:15<19:34, 25.00s/it]
+Average Test Loss: 7789976.8125
+Epoch [4/50], Step [40/160], Loss: 7790273.5
+Average Test Loss: 7778838.1375
+Epoch [4/50], Step [40/160], Loss: 7779686.0
+Average Test Loss: 7767740.175
+
+  8%|▊         | 4/50 [01:40<19:01, 24.82s/it]
+Average Test Loss: 7754511.6
+Epoch [5/50], Step [40/160], Loss: 7754918.5
+Average Test Loss: 7743583.875
+Epoch [5/50], Step [40/160], Loss: 7743710.0
+Average Test Loss: 7732639.6625
+
+ 10%|█         | 5/50 [02:04<18:32, 24.72s/it]
+Average Test Loss: 7719548.0
+Epoch [6/50], Step [40/160], Loss: 7719537.5
+Average Test Loss: 7708732.6375
+Epoch [6/50], Step [40/160], Loss: 7709202.0
+Average Test Loss: 7697939.4125
+
+ 12%|█▏        | 6/50 [02:29<18:04, 24.65s/it]
+Average Test Loss: 7685130.3375
+Epoch [7/50], Step [40/160], Loss: 7685539.5
+Average Test Loss: 7674396.8875
+Epoch [7/50], Step [40/160], Loss: 7674546.5
+Average Test Loss: 7663685.85
+
+ 14%|█▍        | 7/50 [02:53<17:38, 24.62s/it]
+Average Test Loss: 7651031.175
+Epoch [8/50], Step [40/160], Loss: 7650877.0
+Average Test Loss: 7640548.4125
+Epoch [8/50], Step [40/160], Loss: 7641275.5
+Average Test Loss: 7630147.175
+
+ 16%|█▌        | 8/50 [03:18<17:12, 24.59s/it]
+Average Test Loss: 7617622.4625
+Epoch [9/50], Step [40/160], Loss: 7618131.0
+Average Test Loss: 7607335.65
+Epoch [9/50], Step [40/160], Loss: 7607444.0
+Average Test Loss: 7596957.6
+
+ 18%|█▊        | 9/50 [03:42<16:47, 24.57s/it]
+Average Test Loss: 7584847.0875
+Epoch [10/50], Step [40/160], Loss: 7585232.0
+Average Test Loss: 7574754.7875
+Epoch [10/50], Step [40/160], Loss: 7575616.0
+Average Test Loss: 7564668.175
+
+ 20%|██        | 10/50 [04:07<16:22, 24.56s/it]
+Average Test Loss: 7552756.8125
+Epoch [11/50], Step [40/160], Loss: 7552602.0
+Average Test Loss: 7542865.075
+Epoch [11/50], Step [40/160], Loss: 7542729.0
+Average Test Loss: 7532903.7
+
+ 22%|██▏       | 11/50 [04:31<15:57, 24.55s/it]
+Average Test Loss: 7521219.425
+Epoch [12/50], Step [40/160], Loss: 7522017.0
+Average Test Loss: 7511577.2125
+Epoch [12/50], Step [40/160], Loss: 7511711.5
+Average Test Loss: 7501952.925
+
+ 24%|██▍       | 12/50 [04:56<15:32, 24.54s/it]
+Average Test Loss: 7490384.0125
+Epoch [13/50], Step [40/160], Loss: 7490669.5
+Average Test Loss: 7480967.975
+Epoch [13/50], Step [40/160], Loss: 7481034.0
+Average Test Loss: 7471607.9
+
+ 26%|██▌       | 13/50 [05:20<15:07, 24.54s/it]
+Average Test Loss: 7460307.55
+Epoch [14/50], Step [40/160], Loss: 7460714.0
+Average Test Loss: 7451238.7625
+Epoch [14/50], Step [40/160], Loss: 7451238.0
+Average Test Loss: 7442014.1375
+
+ 28%|██▊       | 14/50 [05:45<14:43, 24.53s/it]
+Average Test Loss: 7431013.175
+Epoch [15/50], Step [40/160], Loss: 7431068.5
+Average Test Loss: 7422073.575
+Epoch [15/50], Step [40/160], Loss: 7421937.0
+Average Test Loss: 7413100.8875
+
+ 30%|███       | 15/50 [06:10<14:18, 24.53s/it]
+Average Test Loss: 7402429.1375
+Epoch [16/50], Step [40/160], Loss: 7402706.5
+Average Test Loss: 7393738.2125
+Epoch [16/50], Step [40/160], Loss: 7393932.5
+Average Test Loss: 7384933.525
+
+ 32%|███▏      | 16/50 [06:34<13:54, 24.53s/it]
+Average Test Loss: 7374579.45
+Epoch [17/50], Step [40/160], Loss: 7374873.5
+Average Test Loss: 7365991.325
+Epoch [17/50], Step [40/160], Loss: 7366745.0
+Average Test Loss: 7357540.95
+
+ 34%|███▍      | 17/50 [06:59<13:29, 24.53s/it]
+Average Test Loss: 7347490.6125
+Epoch [18/50], Step [40/160], Loss: 7347363.0
+Average Test Loss: 7339213.2375
+Epoch [18/50], Step [40/160], Loss: 7339523.0
+Average Test Loss: 7330992.2125
+
+ 36%|███▌      | 18/50 [07:23<13:04, 24.52s/it]
+Average Test Loss: 7321114.9125
+Epoch [19/50], Step [40/160], Loss: 7322194.0
+Average Test Loss: 7313172.7
+Epoch [19/50], Step [40/160], Loss: 7313136.0
+Average Test Loss: 7305137.2375
+
+ 38%|███▊      | 19/50 [07:48<12:40, 24.52s/it]
+Average Test Loss: 7295711.5125
+Epoch [20/50], Step [40/160], Loss: 7295945.5
+Average Test Loss: 7287873.6375
+Epoch [20/50], Step [40/160], Loss: 7288257.0
+Average Test Loss: 7280171.375
+
+ 40%|████      | 20/50 [08:12<12:15, 24.52s/it]
+Average Test Loss: 7270912.4375
+Epoch [21/50], Step [40/160], Loss: 7270942.0
+Average Test Loss: 7263371.325
+Epoch [21/50], Step [40/160], Loss: 7264143.0
+Average Test Loss: 7255950.0
+
+ 42%|████▏     | 21/50 [08:37<11:51, 24.52s/it]
+Average Test Loss: 7246977.4875
+Epoch [22/50], Step [40/160], Loss: 7247058.0
+Average Test Loss: 7239616.4625
+Epoch [22/50], Step [40/160], Loss: 7239964.0
+Average Test Loss: 7232337.7625
+
+ 44%|████▍     | 22/50 [09:01<11:26, 24.52s/it]
+Average Test Loss: 7223734.875
+Epoch [23/50], Step [40/160], Loss: 7224144.0
+Average Test Loss: 7216639.0375
+Epoch [23/50], Step [40/160], Loss: 7216897.0
+Average Test Loss: 7209615.9375
+
+ 46%|████▌     | 23/50 [09:26<11:02, 24.52s/it]
+Average Test Loss: 7201302.85
+Epoch [24/50], Step [40/160], Loss: 7201499.0
+Average Test Loss: 7194484.55
+Epoch [24/50], Step [40/160], Loss: 7195332.5
+Average Test Loss: 7187807.0375
+
+ 48%|████▊     | 24/50 [09:50<10:37, 24.52s/it]
+Average Test Loss: 7179675.8875
+Epoch [25/50], Step [40/160], Loss: 7180106.5
+Average Test Loss: 7173121.9875
+Epoch [25/50], Step [40/160], Loss: 7173318.0
+Average Test Loss: 7166677.6625
+
+ 50%|█████     | 25/50 [10:15<10:12, 24.52s/it]
+Average Test Loss: 7158996.6375
+Epoch [26/50], Step [40/160], Loss: 7159045.0
+Average Test Loss: 7152680.9
+Epoch [26/50], Step [40/160], Loss: 7152562.0
+Average Test Loss: 7146438.65
+
+ 52%|█████▏    | 26/50 [10:39<09:48, 24.52s/it]
+Average Test Loss: 7138981.5875
+Epoch [27/50], Step [40/160], Loss: 7139379.5
+Average Test Loss: 7132891.075
+Epoch [27/50], Step [40/160], Loss: 7133672.0
+Average Test Loss: 7126944.0
+
+ 54%|█████▍    | 27/50 [11:04<09:23, 24.52s/it]
+Average Test Loss: 7119848.8125
+Epoch [28/50], Step [40/160], Loss: 7119853.0
+Average Test Loss: 7114007.9625
+Epoch [28/50], Step [40/160], Loss: 7114511.5
+Average Test Loss: 7108269.2875
+
+ 56%|█████▌    | 28/50 [11:28<08:59, 24.52s/it]
+Average Test Loss: 7101541.175
+Epoch [29/50], Step [40/160], Loss: 7101299.0
+Average Test Loss: 7095965.4625
+Epoch [29/50], Step [40/160], Loss: 7096705.0
+Average Test Loss: 7090420.5875
+
+ 58%|█████▊    | 29/50 [11:53<08:34, 24.52s/it]
+Average Test Loss: 7083902.7125
+Epoch [30/50], Step [40/160], Loss: 7084284.0
+Average Test Loss: 7078713.525
+Epoch [30/50], Step [40/160], Loss: 7078804.0
+Average Test Loss: 7073287.65
+
+ 60%|██████    | 30/50 [12:17<08:10, 24.52s/it]
+Average Test Loss: 7067129.225
+Epoch [31/50], Step [40/160], Loss: 7067182.0
+Average Test Loss: 7062044.3
+Epoch [31/50], Step [40/160], Loss: 7062295.5
+Average Test Loss: 7057053.1
+
+ 62%|██████▏   | 31/50 [12:42<07:45, 24.52s/it]
+Average Test Loss: 7051233.9875
+Epoch [32/50], Step [40/160], Loss: 7051456.0
+Average Test Loss: 7046234.4625
+Epoch [32/50], Step [40/160], Loss: 7046819.0
+Average Test Loss: 7041645.3875
+
+ 64%|██████▍   | 32/50 [13:06<07:21, 24.52s/it]
+Average Test Loss: 7036068.2
+Epoch [33/50], Step [40/160], Loss: 7036597.0
+Average Test Loss: 7031575.1625
+Epoch [33/50], Step [40/160], Loss: 7032313.5
+Average Test Loss: 7027206.925
+
+ 66%|██████▌   | 33/50 [13:31<06:56, 24.52s/it]
+Average Test Loss: 7021879.075
+Epoch [34/50], Step [40/160], Loss: 7022496.5
+Average Test Loss: 7017568.55
+Epoch [34/50], Step [40/160], Loss: 7017509.0
+Average Test Loss: 7013411.95
+
+ 68%|██████▊   | 34/50 [13:55<06:32, 24.52s/it]
+Average Test Loss: 7008416.175
+Epoch [35/50], Step [40/160], Loss: 7008418.5
+Average Test Loss: 7004451.15
+Epoch [35/50], Step [40/160], Loss: 7004287.0
+Average Test Loss: 7000479.9625
+
+ 70%|███████   | 35/50 [14:20<06:07, 24.52s/it]
+Average Test Loss: 6995821.65
+Epoch [36/50], Step [40/160], Loss: 6996016.0
+Average Test Loss: 6992012.6125
+Epoch [36/50], Step [40/160], Loss: 6992209.0
+Average Test Loss: 6988250.3
+
+ 72%|███████▏  | 36/50 [14:44<05:43, 24.52s/it]
+Average Test Loss: 6984010.7
+Epoch [37/50], Step [40/160], Loss: 6984334.5
+Average Test Loss: 6980477.8625
+Epoch [37/50], Step [40/160], Loss: 6980688.0
+Average Test Loss: 6977049.2
+
+ 74%|███████▍  | 37/50 [15:09<05:18, 24.53s/it]
+Average Test Loss: 6973019.0375
+Epoch [38/50], Step [40/160], Loss: 6973019.0
+Average Test Loss: 6969791.2625
+Epoch [38/50], Step [40/160], Loss: 6970258.0
+Average Test Loss: 6966699.15
+
+ 76%|███████▌  | 38/50 [15:34<04:54, 24.52s/it]
+Average Test Loss: 6962790.3125
+Epoch [39/50], Step [40/160], Loss: 6963029.0
+Average Test Loss: 6959951.75
+Epoch [39/50], Step [40/160], Loss: 6960348.5
+Average Test Loss: 6956947.3
+
+ 78%|███████▊  | 39/50 [15:58<04:29, 24.52s/it]
+Average Test Loss: 6953703.725
+Epoch [40/50], Step [40/160], Loss: 6953412.0
+Average Test Loss: 6950864.05
+Epoch [40/50], Step [40/160], Loss: 6951291.0
+Average Test Loss: 6948252.95
+
+ 80%|████████  | 40/50 [16:23<04:05, 24.52s/it]
+Average Test Loss: 6945128.5375
+Epoch [41/50], Step [40/160], Loss: 6945106.0
+Average Test Loss: 6942543.325
+Epoch [41/50], Step [40/160], Loss: 6942709.0
+Average Test Loss: 6940297.6
+
+ 82%|████████▏ | 41/50 [16:47<03:40, 24.52s/it]
+Average Test Loss: 6937426.425
+Epoch [42/50], Step [40/160], Loss: 6937506.0
+Average Test Loss: 6935305.0125
+Epoch [42/50], Step [40/160], Loss: 6934965.0
+Average Test Loss: 6933264.6875
+
+ 84%|████████▍ | 42/50 [17:12<03:16, 24.54s/it]
+Average Test Loss: 6930592.3
+Epoch [43/50], Step [40/160], Loss: 6930582.5
+Average Test Loss: 6928651.6125
+Epoch [43/50], Step [40/160], Loss: 6928637.0
+Average Test Loss: 6926808.3
+
+ 86%|████████▌ | 43/50 [17:36<02:51, 24.55s/it]
+Average Test Loss: 6924663.475
+Epoch [44/50], Step [40/160], Loss: 6924680.5
+Average Test Loss: 6922962.8125
+Epoch [44/50], Step [40/160], Loss: 6923308.0
+Average Test Loss: 6921352.7
+
+ 88%|████████▊ | 44/50 [18:01<02:27, 24.57s/it]
+Average Test Loss: 6919514.425
+Epoch [45/50], Step [40/160], Loss: 6919256.0
+Average Test Loss: 6917999.55
+Epoch [45/50], Step [40/160], Loss: 6918280.5
+Average Test Loss: 6916799.1125
+
+ 90%|█████████ | 45/50 [18:26<02:03, 24.61s/it]
+Average Test Loss: 6915181.7625
+Epoch [46/50], Step [40/160], Loss: 6915335.0
+Average Test Loss: 6914091.15
+Epoch [46/50], Step [40/160], Loss: 6914713.5
+Average Test Loss: 6912923.675
+
+ 92%|█████████▏| 46/50 [19:08<01:59, 29.85s/it]
+Average Test Loss: 6911695.7375
+Epoch [47/50], Step [40/160], Loss: 6911600.0
+Average Test Loss: 6910778.2125
+Epoch [47/50], Step [40/160], Loss: 6910516.0
+Average Test Loss: 6909844.15
+
+ 94%|█████████▍| 47/50 [20:45<02:30, 50.12s/it]
+Average Test Loss: 6909071.8625
+Epoch [48/50], Step [40/160], Loss: 6909139.5
+Average Test Loss: 6908428.9625
+Epoch [48/50], Step [40/160], Loss: 6908935.5
+Average Test Loss: 6907720.125
+
+ 96%|█████████▌| 48/50 [22:24<02:09, 64.76s/it]
+Average Test Loss: 6907170.75
+Epoch [49/50], Step [40/160], Loss: 6907745.0
+Average Test Loss: 6906832.4
+Epoch [49/50], Step [40/160], Loss: 6906619.5
+Average Test Loss: 6906490.125
+
+ 98%|█████████▊| 49/50 [24:02<01:14, 74.82s/it]
+Average Test Loss: 6906233.65
+Epoch [50/50], Step [40/160], Loss: 6906104.0
+Average Test Loss: 6906099.9
+Epoch [50/50], Step [40/160], Loss: 6905881.0
+Average Test Loss: 6906033.25
+
+100%|██████████| 50/50 [25:41<00:00, 30.84s/it]
+No such comm: 07326238bc8e4d63a7e7929f4f985505
+No such comm: 5eb72e6c1e604bd49bddb1a2b0a35363
+No such comm: e04a0b4b516f4caca21d932fc68528be
+No such comm: 67b9a9eddb844004b8e865ed09c8a4ae
+No such comm: ba9c7c83e39545eead93efbb71e768dd
+No such comm: fa1cabc71f6c4003979444e2f3937dd9
+No such comm: 18e5d67ccfca4a8fbf0aea589d09755a
+No such comm: 23aca8cec33d4fcca35e6598889aeb00
+No such comm: 9255f14f68b4456985d549c1107dfba0
+No such comm: 20f023370ac14d87af0ecdf7cea64812
+No such comm: 5ba519b2285b4e20a31479f7630b0cad
+No such comm: 3196595fad854b39be2eaebfa4174034
+No such comm: d070af83d7bd415ab9e7a3923c01c709
+No such comm: edfce61e1a2c43d48283f7cba91e412e
+No such comm: dafc992c99f640b6aa3e16c1beeb444a

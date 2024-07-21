@@ -1,0 +1,47 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  12%|██████▏                                           | 99/800 [00:24<04:12,  2.78it/s]
+Highest Loss at index: 0, Loss: 10242474.0
+Lowest Loss at index: 991, Loss: 10224926.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  25%|████████████▏                                    | 199/800 [02:26<07:22,  1.36it/s]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/gpt2.py", line 165, in <module>
+    evaluate_model(model, test_dataloader, device, loss_fn)
+  File "/user/as6154/dissert/gpt2.py", line 120, in evaluate_model
+    for i, (test_input_seq) in enumerate(test_dataloader):
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 631, in __next__
+    data = self._next_data()
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 675, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/user/as6154/dissert/gpt2.py", line 46, in __getitem__
+    return torch.tensor(sequence, dtype=torch.float32)
+KeyboardInterrupt

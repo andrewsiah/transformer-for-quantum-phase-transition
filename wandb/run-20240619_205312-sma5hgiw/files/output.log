@@ -1,0 +1,323 @@
+
+  0%|          | 0/100 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 5248588.0
+Lowest Loss at index: 20, Loss: 5242758.0
+
+  1%|          | 1/100 [01:00<1:40:30, 60.91s/it]
+Highest Loss at index: 0, Loss: 4974839.0
+Lowest Loss at index: 20, Loss: 4969154.5
+Epoch [1/100], Step [200/200], Loss: 4972948.0
+Highest Loss at index: 0, Loss: 4702686.5
+Lowest Loss at index: 20, Loss: 4697160.0
+
+  2%|▏         | 2/100 [02:02<1:39:55, 61.18s/it]
+Highest Loss at index: 0, Loss: 4433006.5
+Lowest Loss at index: 20, Loss: 4427654.5
+Epoch [2/100], Step [200/200], Loss: 4432796.0
+Highest Loss at index: 0, Loss: 4166673.25
+Lowest Loss at index: 20, Loss: 4161484.5
+Epoch [3/100], Step [100/200], Loss: 4165145.75
+Highest Loss at index: 0, Loss: 3904626.25
+Lowest Loss at index: 20, Loss: 3899585.25
+
+  3%|▎         | 3/100 [03:03<1:39:16, 61.41s/it]
+Highest Loss at index: 0, Loss: 3647738.0
+Lowest Loss at index: 20, Loss: 3642875.0
+
+  4%|▍         | 4/100 [04:06<1:39:01, 61.90s/it]
+Highest Loss at index: 0, Loss: 3396930.0
+Lowest Loss at index: 20, Loss: 3392223.5
+Epoch [4/100], Step [200/200], Loss: 3395256.0
+Highest Loss at index: 0, Loss: 3152898.75
+Lowest Loss at index: 20, Loss: 3148372.5
+
+  5%|▌         | 5/100 [05:08<1:38:11, 62.01s/it]
+Highest Loss at index: 0, Loss: 2916447.25
+Lowest Loss at index: 20, Loss: 2912099.25
+Epoch [5/100], Step [200/200], Loss: 2916486.25
+Highest Loss at index: 0, Loss: 2688222.25
+Lowest Loss at index: 20, Loss: 2684039.25
+
+  6%|▌         | 6/100 [06:11<1:37:30, 62.23s/it]
+Highest Loss at index: 0, Loss: 2468821.75
+Lowest Loss at index: 20, Loss: 2464806.75
+Epoch [6/100], Step [200/200], Loss: 2467683.25
+Highest Loss at index: 0, Loss: 2258728.5
+Lowest Loss at index: 20, Loss: 2254892.0
+
+  7%|▋         | 7/100 [07:14<1:36:51, 62.49s/it]
+Highest Loss at index: 0, Loss: 2058398.25
+Lowest Loss at index: 20, Loss: 2054732.25
+Epoch [7/100], Step [200/200], Loss: 2057387.75
+Highest Loss at index: 0, Loss: 1868171.75
+Lowest Loss at index: 20, Loss: 1864675.375
+
+  8%|▊         | 8/100 [08:18<1:36:23, 62.86s/it]
+Highest Loss at index: 0, Loss: 1688307.375
+Lowest Loss at index: 20, Loss: 1684981.625
+Epoch [8/100], Step [200/200], Loss: 1687358.0
+Highest Loss at index: 0, Loss: 1518961.625
+Lowest Loss at index: 20, Loss: 1515810.125
+
+  9%|▉         | 9/100 [09:20<1:35:13, 62.78s/it]
+Highest Loss at index: 0, Loss: 1360271.375
+Lowest Loss at index: 20, Loss: 1357288.625
+Epoch [9/100], Step [200/200], Loss: 1359383.375
+Highest Loss at index: 0, Loss: 1212263.625
+Lowest Loss at index: 20, Loss: 1209439.375
+
+ 10%|█         | 10/100 [10:23<1:34:13, 62.82s/it]
+Highest Loss at index: 0, Loss: 1074876.0
+Lowest Loss at index: 20, Loss: 1072216.0
+Epoch [10/100], Step [200/200], Loss: 1074003.125
+Highest Loss at index: 0, Loss: 948005.5625
+Lowest Loss at index: 20, Loss: 945501.5625
+
+ 11%|█         | 11/100 [11:26<1:33:06, 62.77s/it]
+Highest Loss at index: 0, Loss: 831460.9375
+Lowest Loss at index: 20, Loss: 829111.0
+Epoch [11/100], Step [200/200], Loss: 830710.8125
+Highest Loss at index: 0, Loss: 724992.5625
+Lowest Loss at index: 20, Loss: 722791.6875
+
+ 12%|█▏        | 12/100 [12:28<1:31:58, 62.71s/it]
+Highest Loss at index: 0, Loss: 628300.5625
+Lowest Loss at index: 20, Loss: 626241.8125
+Epoch [12/100], Step [200/200], Loss: 627542.8125
+Highest Loss at index: 0, Loss: 541021.625
+Lowest Loss at index: 60, Loss: 539098.5625
+Epoch [13/100], Step [100/200], Loss: 540319.3125
+Highest Loss at index: 0, Loss: 462745.78125
+Lowest Loss at index: 60, Loss: 460954.5625
+
+ 13%|█▎        | 13/100 [13:31<1:31:05, 62.82s/it]
+Highest Loss at index: 0, Loss: 393017.71875
+Lowest Loss at index: 143, Loss: 391362.125
+
+ 14%|█▍        | 14/100 [14:35<1:30:08, 62.89s/it]
+Highest Loss at index: 0, Loss: 331367.21875
+Lowest Loss at index: 143, Loss: 329817.40625
+Epoch [14/100], Step [200/200], Loss: 330717.78125
+Highest Loss at index: 0, Loss: 277245.34375
+Lowest Loss at index: 143, Loss: 275815.21875
+
+ 15%|█▌        | 15/100 [15:38<1:29:22, 63.09s/it]
+Highest Loss at index: 0, Loss: 230154.0
+Lowest Loss at index: 143, Loss: 228811.5
+Epoch [15/100], Step [200/200], Loss: 229464.078125
+Highest Loss at index: 0, Loss: 189515.703125
+Lowest Loss at index: 143, Loss: 188247.71875
+
+ 16%|█▌        | 16/100 [16:41<1:28:17, 63.07s/it]
+Highest Loss at index: 11, Loss: 154765.90625
+Lowest Loss at index: 143, Loss: 153572.328125
+Epoch [16/100], Step [200/200], Loss: 154331.375
+Highest Loss at index: 11, Loss: 125349.890625
+Lowest Loss at index: 143, Loss: 124232.0390625
+
+ 17%|█▋        | 17/100 [17:44<1:27:13, 63.06s/it]
+Highest Loss at index: 11, Loss: 100707.4765625
+Lowest Loss at index: 143, Loss: 99637.7265625
+Epoch [17/100], Step [200/200], Loss: 100382.609375
+Highest Loss at index: 11, Loss: 80278.5078125
+Lowest Loss at index: 143, Loss: 79261.1953125
+
+ 18%|█▊        | 18/100 [18:48<1:26:23, 63.21s/it]
+Highest Loss at index: 11, Loss: 63524.86328125
+Lowest Loss at index: 143, Loss: 62573.6328125
+Epoch [18/100], Step [200/200], Loss: 63117.1484375
+Highest Loss at index: 11, Loss: 49979.61328125
+Lowest Loss at index: 143, Loss: 49052.85546875
+
+ 19%|█▉        | 19/100 [19:51<1:25:14, 63.14s/it]
+Highest Loss at index: 305, Loss: 39222.4375
+Lowest Loss at index: 420, Loss: 38245.22265625
+Epoch [19/100], Step [200/200], Loss: 38710.8515625
+Highest Loss at index: 305, Loss: 30769.181640625
+Lowest Loss at index: 420, Loss: 29719.666015625
+
+ 20%|██        | 20/100 [20:54<1:24:12, 63.16s/it]
+Highest Loss at index: 305, Loss: 24239.05859375
+Lowest Loss at index: 420, Loss: 23053.9765625
+Epoch [20/100], Step [200/200], Loss: 23609.259765625
+Highest Loss at index: 305, Loss: 19225.05078125
+Lowest Loss at index: 420, Loss: 17956.736328125
+
+ 21%|██        | 21/100 [21:57<1:23:17, 63.26s/it]
+Highest Loss at index: 305, Loss: 15430.3037109375
+Lowest Loss at index: 420, Loss: 14139.17578125
+Epoch [21/100], Step [200/200], Loss: 14769.109375
+Highest Loss at index: 305, Loss: 12681.8896484375
+Lowest Loss at index: 420, Loss: 11241.41796875
+
+ 22%|██▏       | 22/100 [23:00<1:22:07, 63.18s/it]
+Highest Loss at index: 305, Loss: 10633.8505859375
+Lowest Loss at index: 420, Loss: 9179.7392578125
+Epoch [22/100], Step [200/200], Loss: 10052.4306640625
+Highest Loss at index: 305, Loss: 9211.7861328125
+Lowest Loss at index: 420, Loss: 7656.51025390625
+Epoch [23/100], Step [100/200], Loss: 8264.9169921875
+Highest Loss at index: 305, Loss: 8216.78125
+Lowest Loss at index: 420, Loss: 6581.48095703125
+
+ 23%|██▎       | 23/100 [24:03<1:21:02, 63.15s/it]
+Highest Loss at index: 305, Loss: 7498.41943359375
+Lowest Loss at index: 420, Loss: 5867.4501953125
+
+ 24%|██▍       | 24/100 [25:08<1:20:34, 63.62s/it]
+Highest Loss at index: 305, Loss: 7061.869140625
+Lowest Loss at index: 420, Loss: 5329.1337890625
+Epoch [24/100], Step [200/200], Loss: 6132.03369140625
+Highest Loss at index: 305, Loss: 6737.2783203125
+Lowest Loss at index: 420, Loss: 5002.69970703125
+
+ 25%|██▌       | 25/100 [26:11<1:19:18, 63.44s/it]
+Highest Loss at index: 305, Loss: 6572.40771484375
+Lowest Loss at index: 420, Loss: 4745.9443359375
+Epoch [25/100], Step [200/200], Loss: 5886.6025390625
+Highest Loss at index: 305, Loss: 6472.43017578125
+Lowest Loss at index: 420, Loss: 4571.93408203125
+
+ 26%|██▌       | 26/100 [27:14<1:18:07, 63.35s/it]
+Highest Loss at index: 305, Loss: 6419.01416015625
+Lowest Loss at index: 420, Loss: 4452.0859375
+Epoch [26/100], Step [200/200], Loss: 5457.83447265625
+Highest Loss at index: 305, Loss: 6364.2255859375
+Lowest Loss at index: 420, Loss: 4401.76220703125
+
+ 27%|██▋       | 27/100 [28:17<1:16:53, 63.20s/it]
+Highest Loss at index: 316, Loss: 6329.1865234375
+Lowest Loss at index: 420, Loss: 4370.0673828125
+Epoch [27/100], Step [200/200], Loss: 5042.08544921875
+Highest Loss at index: 316, Loss: 6344.9990234375
+Lowest Loss at index: 420, Loss: 4313.7734375
+
+ 28%|██▊       | 28/100 [29:21<1:15:57, 63.29s/it]
+Highest Loss at index: 316, Loss: 6340.8916015625
+Lowest Loss at index: 420, Loss: 4291.44482421875
+Epoch [28/100], Step [200/200], Loss: 5563.58984375
+Highest Loss at index: 316, Loss: 6334.791015625
+Lowest Loss at index: 420, Loss: 4279.3994140625
+
+ 29%|██▉       | 29/100 [30:25<1:15:07, 63.49s/it]
+Highest Loss at index: 316, Loss: 6317.76806640625
+Lowest Loss at index: 420, Loss: 4292.45166015625
+Epoch [29/100], Step [200/200], Loss: 5175.81591796875
+Highest Loss at index: 316, Loss: 6352.744140625
+Lowest Loss at index: 420, Loss: 4252.09619140625
+Epoch [30/100], Step [100/200], Loss: 5373.30712890625
+Highest Loss at index: 316, Loss: 6316.0205078125
+Lowest Loss at index: 420, Loss: 4284.02490234375
+
+ 30%|███       | 30/100 [31:28<1:13:53, 63.34s/it]
+Highest Loss at index: 316, Loss: 6321.109375
+Lowest Loss at index: 420, Loss: 4275.78759765625
+
+ 31%|███       | 31/100 [32:31<1:12:50, 63.34s/it]
+Highest Loss at index: 316, Loss: 6307.8525390625
+Lowest Loss at index: 420, Loss: 4288.34716796875
+Epoch [31/100], Step [200/200], Loss: 4980.37548828125
+Highest Loss at index: 316, Loss: 6316.38818359375
+Lowest Loss at index: 420, Loss: 4281.76708984375
+
+ 32%|███▏      | 32/100 [33:34<1:11:46, 63.34s/it]
+Highest Loss at index: 316, Loss: 6268.68994140625
+Lowest Loss at index: 420, Loss: 4329.50244140625
+Epoch [32/100], Step [200/200], Loss: 5116.41650390625
+Highest Loss at index: 316, Loss: 6340.87744140625
+Lowest Loss at index: 420, Loss: 4255.40185546875
+
+ 33%|███▎      | 33/100 [34:40<1:11:37, 64.14s/it]
+Highest Loss at index: 316, Loss: 6435.04248046875
+Lowest Loss at index: 420, Loss: 4164.85302734375
+Epoch [33/100], Step [200/200], Loss: 5316.27783203125
+Highest Loss at index: 316, Loss: 6401.0751953125
+Lowest Loss at index: 420, Loss: 4195.01025390625
+Epoch [34/100], Step [100/200], Loss: 5555.0302734375
+Highest Loss at index: 316, Loss: 6430.65625
+Lowest Loss at index: 420, Loss: 4160.2099609375
+
+ 34%|███▍      | 34/100 [35:58<1:14:56, 68.12s/it]
+Highest Loss at index: 316, Loss: 6384.17724609375
+Lowest Loss at index: 420, Loss: 4206.6875
+
+ 35%|███▌      | 35/100 [37:15<1:16:54, 70.99s/it]
+Highest Loss at index: 316, Loss: 6389.443359375
+Lowest Loss at index: 420, Loss: 4194.72509765625
+Epoch [35/100], Step [200/200], Loss: 4984.93310546875
+Highest Loss at index: 316, Loss: 6445.57763671875
+Lowest Loss at index: 420, Loss: 4136.283203125
+
+ 36%|███▌      | 36/100 [38:54<1:24:41, 79.39s/it]
+Highest Loss at index: 316, Loss: 6484.81591796875
+Lowest Loss at index: 420, Loss: 4115.9892578125
+Epoch [36/100], Step [200/200], Loss: 5512.8955078125
+Highest Loss at index: 316, Loss: 6418.1708984375
+Lowest Loss at index: 420, Loss: 4170.96337890625
+
+ 37%|███▋      | 37/100 [40:11<1:22:25, 78.49s/it]
+Highest Loss at index: 316, Loss: 6414.67822265625
+Lowest Loss at index: 420, Loss: 4176.4541015625
+Epoch [37/100], Step [200/200], Loss: 5563.33935546875
+Highest Loss at index: 316, Loss: 6431.1630859375
+Lowest Loss at index: 420, Loss: 4158.1396484375
+
+ 38%|███▊      | 38/100 [41:39<1:24:13, 81.50s/it]
+Highest Loss at index: 316, Loss: 6448.65478515625
+Lowest Loss at index: 420, Loss: 4135.966796875
+Epoch [38/100], Step [200/200], Loss: 4850.44482421875
+Highest Loss at index: 316, Loss: 6364.087890625
+Lowest Loss at index: 420, Loss: 4213.7421875
+
+ 39%|███▉      | 39/100 [43:38<1:34:15, 92.71s/it]
+Highest Loss at index: 316, Loss: 6372.8818359375
+Lowest Loss at index: 420, Loss: 4203.451171875
+Epoch [39/100], Step [200/200], Loss: 5571.87744140625
+Highest Loss at index: 316, Loss: 6389.6640625
+Lowest Loss at index: 420, Loss: 4189.28466796875
+
+ 40%|████      | 40/100 [45:00<1:29:35, 89.59s/it]
+Highest Loss at index: 316, Loss: 6314.34912109375
+Lowest Loss at index: 420, Loss: 4257.1083984375
+Epoch [40/100], Step [200/200], Loss: 5015.50830078125
+Highest Loss at index: 316, Loss: 6417.19091796875
+Lowest Loss at index: 420, Loss: 4154.05810546875
+
+ 41%|████      | 41/100 [46:31<1:28:15, 89.76s/it]
+Highest Loss at index: 316, Loss: 6283.361328125
+Lowest Loss at index: 420, Loss: 4280.09375
+Epoch [41/100], Step [200/200], Loss: 5201.150390625
+Highest Loss at index: 316, Loss: 6339.74658203125
+Lowest Loss at index: 420, Loss: 4230.04248046875
+Epoch [42/100], Step [100/200], Loss: 5398.62255859375
+Highest Loss at index: 316, Loss: 6318.16943359375
+Lowest Loss at index: 420, Loss: 4247.18994140625
+
+ 42%|████▏     | 42/100 [47:52<1:24:18, 87.21s/it]
+Highest Loss at index: 316, Loss: 6311.62353515625
+Lowest Loss at index: 420, Loss: 4245.10498046875
+Epoch [43/100], Step [100/200], Loss: 5414.8017578125
+Highest Loss at index: 316, Loss: 6309.3505859375
+Lowest Loss at index: 420, Loss: 4210.43212890625
+
+ 43%|████▎     | 43/100 [49:42<1:05:54, 69.37s/it]
+No such comm: a6f19e6ab9d94a43a40baddd54e06d41
+No such comm: 0fd98009064c4fcfbfb49057af965a16
+No such comm: 1b1043237c274acbb74bc58f6cefc603
+No such comm: 9752de4edcb04bf4acbcd8cb185f6d57
+No such comm: 9a156cb3d43848838ca1ce6bae00ec9c
+No such comm: 58eea4a14f434bd5a24e7e9da5786b0f
+No such comm: 7ebe8d08d1ce4299886a4db8fcc90291
+No such comm: 5d2e9452357d471197d833f242d702ae
+No such comm: d8a4d13930af49bba6b04fc49e33858f
+No such comm: 4b624288a04a4f23b5c24c1a71481b6c
+No such comm: 9e042042a4cc49f2a57e51610ed2d775
+No such comm: 1d410cf10154468980c61a33cd9daef1
+No such comm: ec55650122064ad8a7c3a23a333fc7fb
+No such comm: 7ef42c90ba6741c79acda76e94997291
+No such comm: 88053de729544e8c96c2ac8cf817a532
+No such comm: 6ad4076e72424e3788ef04827b7fc1a0
+100%|██████████| 799/799 [00:00<00:00, 1611.72it/s]
+
+100%|██████████| 799/799 [00:00<00:00, 1832.02it/s]
+

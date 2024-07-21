@@ -1,0 +1,76 @@
+2024-05-08 15:50:27,083 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Current SDK version is 0.15.12
+2024-05-08 15:50:27,084 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Configure stats pid to 51701
+2024-05-08 15:50:27,084 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/.config/wandb/settings
+2024-05-08 15:50:27,084 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/dissert/wandb/settings
+2024-05-08 15:50:27,084 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-05-08 15:50:27,085 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-05-08 15:50:27,085 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-05-08 15:50:27,085 INFO    MainThread:51701 [wandb_init.py:_log_setup():528] Logging user logs to /user/as6154/dissert/wandb/run-20240508_155027-yrqu622x/logs/debug.log
+2024-05-08 15:50:27,085 INFO    MainThread:51701 [wandb_init.py:_log_setup():529] Logging internal logs to /user/as6154/dissert/wandb/run-20240508_155027-yrqu622x/logs/debug-internal.log
+2024-05-08 15:50:27,086 INFO    MainThread:51701 [wandb_init.py:init():568] calling init triggers
+2024-05-08 15:50:27,086 INFO    MainThread:51701 [wandb_init.py:init():575] wandb.init called with sweep_config: {}
+config: {}
+2024-05-08 15:50:27,086 INFO    MainThread:51701 [wandb_init.py:init():618] starting backend
+2024-05-08 15:50:27,086 INFO    MainThread:51701 [wandb_init.py:init():622] setting up manager
+2024-05-08 15:50:27,198 INFO    MainThread:51701 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-05-08 15:50:27,241 INFO    MainThread:51701 [wandb_init.py:init():628] backend started and connected
+2024-05-08 15:50:27,295 INFO    MainThread:51701 [wandb_run.py:_label_probe_notebook():1276] probe notebook
+2024-05-08 15:50:27,295 INFO    MainThread:51701 [wandb_run.py:_label_probe_notebook():1286] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-05-08 15:50:27,295 INFO    MainThread:51701 [wandb_init.py:init():720] updated telemetry
+2024-05-08 15:50:27,296 INFO    MainThread:51701 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-05-08 15:50:35,050 WARNING MainThread:51701 [wandb_init.py:init():1192] interrupted
+Traceback (most recent call last):
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/wandb_init.py", line 1170, in init
+    run = wi.init()
+          ^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/wandb_init.py", line 756, in init
+    result = run_init_handle.wait(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/threading.py", line 622, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2024-05-08 15:50:36,093 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Current SDK version is 0.15.12
+2024-05-08 15:50:36,093 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Configure stats pid to 51701
+2024-05-08 15:50:36,093 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/.config/wandb/settings
+2024-05-08 15:50:36,093 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/dissert/wandb/settings
+2024-05-08 15:50:36,093 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-05-08 15:50:36,095 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-05-08 15:50:36,095 INFO    MainThread:51701 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-05-08 15:50:36,095 INFO    MainThread:51701 [wandb_init.py:_log_setup():528] Logging user logs to /user/as6154/dissert/wandb/run-20240508_155036-fs9ifh0i/logs/debug.log
+2024-05-08 15:50:36,095 INFO    MainThread:51701 [wandb_init.py:_log_setup():529] Logging internal logs to /user/as6154/dissert/wandb/run-20240508_155036-fs9ifh0i/logs/debug-internal.log
+2024-05-08 15:50:36,098 INFO    MainThread:51701 [wandb_init.py:init():568] calling init triggers
+2024-05-08 15:50:36,098 INFO    MainThread:51701 [wandb_init.py:init():575] wandb.init called with sweep_config: {}
+config: {}
+2024-05-08 15:50:36,210 INFO    MainThread:51701 [wandb_init.py:init():618] starting backend
+2024-05-08 15:50:36,211 INFO    MainThread:51701 [wandb_init.py:init():622] setting up manager
+2024-05-08 15:50:36,212 INFO    MainThread:51701 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-05-08 15:50:36,213 INFO    MainThread:51701 [wandb_init.py:init():628] backend started and connected
+2024-05-08 15:50:36,222 INFO    MainThread:51701 [wandb_run.py:_label_probe_notebook():1276] probe notebook
+2024-05-08 15:50:36,223 INFO    MainThread:51701 [wandb_run.py:_label_probe_notebook():1286] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-05-08 15:50:36,225 INFO    MainThread:51701 [wandb_init.py:init():720] updated telemetry
+2024-05-08 15:50:36,228 INFO    MainThread:51701 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-05-08 15:52:06,269 ERROR   MainThread:51701 [wandb_init.py:init():779] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-05-08 15:52:06,337 ERROR   MainThread:51701 [wandb_init.py:init():1188] Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+Traceback (most recent call last):
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/wandb_init.py", line 1170, in init
+    run = wi.init()
+          ^^^^^^^^^
+  File "/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/wandb/sdk/wandb_init.py", line 785, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-

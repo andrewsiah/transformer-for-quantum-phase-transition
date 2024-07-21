@@ -1,0 +1,369 @@
+2024-07-03 17:40:46,458 INFO    StreamThr :738355 [internal.py:wandb_internal():85] W&B internal server running at pid: 738355, started at: 2024-07-03 17:40:46.454414
+2024-07-03 17:40:46,472 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status
+2024-07-03 17:40:46,483 INFO    WriterThread:738355 [datastore.py:open_for_write():87] open: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/run-yhzzeah5.wandb
+2024-07-03 17:40:46,486 DEBUG   SenderThread:738355 [sender.py:send():379] send: header
+2024-07-03 17:40:46,486 DEBUG   SenderThread:738355 [sender.py:send():379] send: run
+2024-07-03 17:40:46,728 INFO    SenderThread:738355 [dir_watcher.py:__init__():211] watching files in: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files
+2024-07-03 17:40:46,728 INFO    SenderThread:738355 [sender.py:_start_run_threads():1188] run started: yhzzeah5 with start time 1720042845.550504
+2024-07-03 17:40:46,764 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: check_version
+2024-07-03 17:40:46,769 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: check_version
+2024-07-03 17:40:46,854 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: run_start
+2024-07-03 17:40:46,856 DEBUG   HandlerThread:738355 [system_info.py:__init__():26] System info init
+2024-07-03 17:40:46,856 DEBUG   HandlerThread:738355 [system_info.py:__init__():41] System info init done
+2024-07-03 17:40:46,856 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:40:46,857 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:40:46,859 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:40:46,861 INFO    HandlerThread:738355 [system_monitor.py:probe():214] Collecting system info
+2024-07-03 17:40:46,871 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started disk monitoring
+2024-07-03 17:40:46,872 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started gpu monitoring
+2024-07-03 17:40:46,874 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started memory monitoring
+2024-07-03 17:40:46,880 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started network monitoring
+2024-07-03 17:40:47,022 DEBUG   HandlerThread:738355 [system_info.py:probe():152] Probing system
+2024-07-03 17:40:47,022 DEBUG   HandlerThread:738355 [gitlib.py:_init_repo():56] git repository is invalid
+2024-07-03 17:40:47,022 DEBUG   HandlerThread:738355 [system_info.py:probe():200] Probing system done
+2024-07-03 17:40:47,022 DEBUG   HandlerThread:738355 [system_monitor.py:probe():223] {'os': 'Linux-5.15.0-113-generic-x86_64-with-glibc2.35', 'python': '3.9.19', 'heartbeatAt': '2024-07-03T21:40:47.022356', 'startedAt': '2024-07-03T21:40:39.595041', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '<python with no main file>', 'codePathLocal': None, 'host': 'researchgpu06', 'username': 'as6154', 'executable': '/user/as6154/.conda/envs/poetry/bin/python', 'cpu_count': 128, 'cpu_count_logical': 256, 'cpu_freq': {'current': 3020.6233203124957, 'min': 1500.0, 'max': 2450.0}, 'cpu_freq_per_core': [{'current': 3099.362, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.682, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.741, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.756, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.859, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.714, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.836, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.598, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.515, 'min': 1500.0, 'max': 2450.0}, {'current': 3098.541, 'min': 1500.0, 'max': 2450.0}, {'current': 3098.971, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.594, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.432, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.644, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.885, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.888, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.523, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.65, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.743, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.883, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.859, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.664, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.875, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.662, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.857, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.408, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.848, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.876, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.737, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.625, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.188, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.032, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.376, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.746, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.727, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.055, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.85, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.531, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.684, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.552, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.892, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.857, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.538, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.495, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.859, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.643, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.628, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.617, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.649, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.861, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.632, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.822, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.354, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.593, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.632, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.859, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.521, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.717, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.501, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.808, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.877, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.881, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.591, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.651, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.243, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.683, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.625, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.858, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.738, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.409, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.87, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.836, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.732, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.224, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.597, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.511, 'min': 1500.0, 'max': 2450.0}, {'current': 3098.55, 'min': 1500.0, 'max': 2450.0}, {'current': 3098.967, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.707, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.547, 'min': 1500.0, 'max': 2450.0}, {'current': 2450.0, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.886, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.89, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.879, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.521, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.65, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.743, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.88, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.859, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.662, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.873, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.662, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.856, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.405, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.847, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.874, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.735, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.865, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.388, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.625, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.185, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.024, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.372, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.745, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.631, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.726, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.057, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.85, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.531, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.685, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.537, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.893, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.856, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.534, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.494, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.854, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.641, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.626, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.84, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.836, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.617, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.647, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.861, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.629, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.822, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.466, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.872, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.52, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.305, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.376, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.833, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.847, 'min': 1500.0, 'max': 2450.0}, {'current': 3075.707, 'min': 1500.0, 'max': 2450.0}, {'current': 3075.636, 'min': 1500.0, 'max': 2450.0}, {'current': 3078.606, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.589, 'min': 1500.0, 'max': 2450.0}, {'current': 3076.686, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.306, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.823, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.825, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.302, 'min': 1500.0, 'max': 2450.0}, {'current': 3076.846, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.669, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.495, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.82, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.886, 'min': 1500.0, 'max': 2450.0}, {'current': 3079.741, 'min': 1500.0, 'max': 2450.0}, {'current': 3097.217, 'min': 1500.0, 'max': 2450.0}, {'current': 3076.575, 'min': 1500.0, 'max': 2450.0}, {'current': 3076.706, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.51, 'min': 1500.0, 'max': 2450.0}, {'current': 3076.669, 'min': 1500.0, 'max': 2450.0}, {'current': 3095.893, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.448, 'min': 1500.0, 'max': 2450.0}, {'current': 3078.861, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.632, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.682, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.158, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.566, 'min': 1500.0, 'max': 2450.0}, {'current': 3079.226, 'min': 1500.0, 'max': 2450.0}, {'current': 3080.158, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.282, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.085, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.858, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.895, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.203, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.538, 'min': 1500.0, 'max': 2450.0}, {'current': 3079.948, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.703, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.661, 'min': 1500.0, 'max': 2450.0}, {'current': 3079.887, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.508, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.791, 'min': 1500.0, 'max': 2450.0}, {'current': 3097.76, 'min': 1500.0, 'max': 2450.0}, {'current': 3078.442, 'min': 1500.0, 'max': 2450.0}, {'current': 3078.072, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.858, 'min': 1500.0, 'max': 2450.0}, {'current': 3079.243, 'min': 1500.0, 'max': 2450.0}, {'current': 3077.736, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.526, 'min': 1500.0, 'max': 2450.0}, {'current': 3079.611, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.808, 'min': 1500.0, 'max': 2450.0}, {'current': 3080.318, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.876, 'min': 1500.0, 'max': 2450.0}, {'current': 3078.351, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.772, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.851, 'min': 1500.0, 'max': 2450.0}, {'current': 3078.506, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.706, 'min': 1500.0, 'max': 2450.0}, {'current': 3099.673, 'min': 1500.0, 'max': 2450.0}], 'disk': {'/': {'total': 3519.1317291259766, 'used': 23.478103637695312}}, 'gpu': 'NVIDIA A100-SXM4-80GB', 'gpu_count': 8, 'gpu_devices': [{'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}, {'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}], 'memory': {'total': 2003.8587684631348}}
+2024-07-03 17:40:47,023 INFO    HandlerThread:738355 [system_monitor.py:probe():224] Finished collecting system info
+2024-07-03 17:40:47,023 INFO    HandlerThread:738355 [system_monitor.py:probe():227] Publishing system info
+2024-07-03 17:40:47,023 DEBUG   HandlerThread:738355 [system_info.py:_save_conda():209] Saving list of conda packages installed into the current environment
+2024-07-03 17:40:47,726 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_created():271] file/dir created: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/conda-environment.yaml
+2024-07-03 17:40:54,243 DEBUG   HandlerThread:738355 [system_info.py:_save_conda():224] Saving conda packages done
+2024-07-03 17:40:54,248 INFO    HandlerThread:738355 [system_monitor.py:probe():229] Finished publishing system info
+2024-07-03 17:40:54,249 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:40:54,249 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: keepalive
+2024-07-03 17:40:54,250 DEBUG   SenderThread:738355 [sender.py:send():379] send: files
+2024-07-03 17:40:54,251 INFO    SenderThread:738355 [sender.py:_save_file():1454] saving file wandb-metadata.json with policy now
+2024-07-03 17:40:54,537 INFO    wandb-upload_0:738355 [upload_job.py:push():130] Uploaded file /tmp/tmptevsn9c6wandb/zho1hwh0-wandb-metadata.json
+2024-07-03 17:40:54,671 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: python_packages
+2024-07-03 17:40:54,671 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: python_packages
+2024-07-03 17:40:54,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:40:54,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: stop_status
+2024-07-03 17:40:54,675 DEBUG   SenderThread:738355 [sender.py:send():379] send: telemetry
+2024-07-03 17:40:54,675 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: stop_status
+2024-07-03 17:40:54,730 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/conda-environment.yaml
+2024-07-03 17:40:54,730 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_created():271] file/dir created: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/requirements.txt
+2024-07-03 17:40:54,731 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_created():271] file/dir created: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/wandb-metadata.json
+2024-07-03 17:40:55,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:40:55,731 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_created():271] file/dir created: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:40:56,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:40:57,560 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:40:57,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:40:57,732 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:40:58,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:40:59,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:40:59,733 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:00,674 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:01,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:01,735 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:02,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:02,787 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:03,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:03,736 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:04,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:05,677 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:06,674 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:07,673 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:08,617 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:08,674 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:09,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: stop_status
+2024-07-03 17:41:09,675 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: stop_status
+2024-07-03 17:41:09,678 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:09,741 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:10,678 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:11,680 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:11,743 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:12,681 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:13,678 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:13,748 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:14,683 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:15,677 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:16,678 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:17,677 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:17,747 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:18,679 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:18,951 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:19,696 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:19,774 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/config.yaml
+2024-07-03 17:41:20,687 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:21,684 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:22,820 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:22,926 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:41:22,927 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:41:22,927 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:41:22,928 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:41:22,929 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined disk monitor
+2024-07-03 17:41:22,929 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:41:22,930 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:41:22,930 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:41:24,793 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:41:25,347 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined gpu monitor
+2024-07-03 17:41:25,347 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined memory monitor
+2024-07-03 17:41:25,349 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined network monitor
+2024-07-03 17:41:25,349 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:41:25,349 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:41:25,350 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: stop_status
+2024-07-03 17:41:25,353 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:25,353 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: stop_status
+2024-07-03 17:41:30,684 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:30,823 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:41:30,823 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:41:30,823 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:41:30,824 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:41:30,825 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:41:30,825 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started disk monitoring
+2024-07-03 17:41:30,827 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started gpu monitoring
+2024-07-03 17:41:30,828 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started memory monitoring
+2024-07-03 17:41:30,829 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started network monitoring
+2024-07-03 17:41:30,868 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:41:30,868 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:41:30,868 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:41:30,869 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:41:30,880 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:41:30,880 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:41:30,888 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:41:30,895 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined disk monitor
+2024-07-03 17:41:34,176 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined gpu monitor
+2024-07-03 17:41:34,177 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined memory monitor
+2024-07-03 17:41:34,177 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined network monitor
+2024-07-03 17:41:34,178 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:41:34,178 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:41:34,178 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:41:34,179 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:41:34,179 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:41:34,184 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:41:34,184 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:41:34,185 WARNING HandlerThread:738355 [interfaces.py:finish():205] Failed to finish cpu monitoring: cannot join thread before it is started
+2024-07-03 17:41:34,180 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:41:34,185 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:41:34,196 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:41:34,196 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:41:34,196 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:41:34,204 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:41:34,204 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:41:34,204 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:41:34,204 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:41:34,204 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:41:34,216 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:41:34,216 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:41:34,212 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:41:34,218 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:41:34,218 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:41:34,218 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:41:34,224 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:41:34,224 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:41:34,224 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:41:34,224 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:41:34,225 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:41:34,225 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:41:34,225 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:41:34,226 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started disk monitoring
+2024-07-03 17:41:34,228 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started gpu monitoring
+2024-07-03 17:41:34,230 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started memory monitoring
+2024-07-03 17:41:34,244 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started network monitoring
+2024-07-03 17:41:35,689 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:39,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: stop_status
+2024-07-03 17:41:39,672 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: stop_status
+2024-07-03 17:41:40,813 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:46,688 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:51,692 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:41:54,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: stop_status
+2024-07-03 17:41:54,673 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: stop_status
+2024-07-03 17:41:56,776 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:02,686 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:07,686 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:09,672 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: stop_status
+2024-07-03 17:42:09,673 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: stop_status
+2024-07-03 17:42:12,810 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:18,687 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:23,714 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:23,860 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:42:23,861 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:42:23,865 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:42:23,866 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:42:23,866 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:42:23,867 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined disk monitor
+2024-07-03 17:42:23,874 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:42:23,877 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:42:24,940 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:42:26,190 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined gpu monitor
+2024-07-03 17:42:26,190 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined memory monitor
+2024-07-03 17:42:26,190 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined network monitor
+2024-07-03 17:42:26,191 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:42:26,191 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:42:26,191 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:42:26,192 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:42:26,192 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:42:26,193 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:42:26,193 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:42:26,194 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:42:26,198 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:42:26,199 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started disk monitoring
+2024-07-03 17:42:26,200 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:42:26,200 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:42:26,201 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:42:26,201 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:42:26,204 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined disk monitor
+2024-07-03 17:42:26,204 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:42:26,205 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:42:26,205 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:42:26,205 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:42:26,205 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: pause
+2024-07-03 17:42:26,206 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:42:26,206 INFO    HandlerThread:738355 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-07-03 17:42:26,206 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started disk monitoring
+2024-07-03 17:42:26,209 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:42:26,209 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started gpu monitoring
+2024-07-03 17:42:26,210 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:42:26,210 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:42:26,211 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:42:26,212 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:42:26,214 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined disk monitor
+2024-07-03 17:42:28,340 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined gpu monitor
+2024-07-03 17:42:28,342 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: resume
+2024-07-03 17:42:28,342 INFO    HandlerThread:738355 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-07-03 17:42:28,342 INFO    HandlerThread:738355 [system_monitor.py:start():194] Starting system monitor
+2024-07-03 17:42:28,343 INFO    SystemMonitor:738355 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-07-03 17:42:28,343 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: server_info
+2024-07-03 17:42:28,344 DEBUG   SenderThread:738355 [sender.py:send():379] send: telemetry
+2024-07-03 17:42:28,344 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started cpu monitoring
+2024-07-03 17:42:28,345 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: server_info
+2024-07-03 17:42:28,348 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started disk monitoring
+2024-07-03 17:42:28,352 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started gpu monitoring
+2024-07-03 17:42:28,353 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started memory monitoring
+2024-07-03 17:42:28,354 INFO    SystemMonitor:738355 [interfaces.py:start():188] Started network monitoring
+2024-07-03 17:42:28,395 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:42:28,396 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:42:28,397 DEBUG   SenderThread:738355 [sender.py:send():379] send: exit
+2024-07-03 17:42:28,397 INFO    SenderThread:738355 [sender.py:send_exit():586] handling exit code: 0
+2024-07-03 17:42:28,398 INFO    SenderThread:738355 [sender.py:send_exit():588] handling runtime: 96
+2024-07-03 17:42:28,400 INFO    SenderThread:738355 [sender.py:_save_file():1454] saving file wandb-summary.json with policy end
+2024-07-03 17:42:28,401 INFO    SenderThread:738355 [sender.py:send_exit():594] send defer
+2024-07-03 17:42:28,402 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:28,402 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 0
+2024-07-03 17:42:28,403 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:28,403 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-07-03 17:42:28,404 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 1
+2024-07-03 17:42:28,404 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:28,405 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 1
+2024-07-03 17:42:28,405 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:28,406 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-07-03 17:42:28,406 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 2
+2024-07-03 17:42:28,406 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:28,407 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 2
+2024-07-03 17:42:28,407 INFO    HandlerThread:738355 [system_monitor.py:finish():203] Stopping system monitor
+2024-07-03 17:42:28,408 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined cpu monitor
+2024-07-03 17:42:28,408 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-07-03 17:42:28,408 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined disk monitor
+2024-07-03 17:42:28,409 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-07-03 17:42:28,409 DEBUG   SystemMonitor:738355 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-07-03 17:42:28,945 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_created():271] file/dir created: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/wandb-summary.json
+2024-07-03 17:42:30,584 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined gpu monitor
+2024-07-03 17:42:30,585 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined memory monitor
+2024-07-03 17:42:30,586 INFO    HandlerThread:738355 [interfaces.py:finish():200] Joined network monitor
+2024-07-03 17:42:30,586 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: poll_exit
+2024-07-03 17:42:30,587 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:30,587 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:30,587 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-07-03 17:42:30,588 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 3
+2024-07-03 17:42:30,589 DEBUG   SenderThread:738355 [sender.py:send():379] send: stats
+2024-07-03 17:42:30,589 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:30,590 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: poll_exit
+2024-07-03 17:42:30,590 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 3
+2024-07-03 17:42:30,592 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:30,592 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-07-03 17:42:30,592 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 4
+2024-07-03 17:42:30,592 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:30,593 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 4
+2024-07-03 17:42:30,593 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:30,593 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-07-03 17:42:30,593 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 5
+2024-07-03 17:42:30,594 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:30,594 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 5
+2024-07-03 17:42:30,594 DEBUG   SenderThread:738355 [sender.py:send():379] send: summary
+2024-07-03 17:42:30,598 INFO    SenderThread:738355 [sender.py:_save_file():1454] saving file wandb-summary.json with policy end
+2024-07-03 17:42:30,598 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:30,599 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-07-03 17:42:30,599 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 6
+2024-07-03 17:42:30,599 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:30,599 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 6
+2024-07-03 17:42:30,599 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:30,600 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-07-03 17:42:30,604 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: status_report
+2024-07-03 17:42:30,694 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 7
+2024-07-03 17:42:30,694 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:30,694 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 7
+2024-07-03 17:42:30,695 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:30,695 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-07-03 17:42:30,947 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/wandb-summary.json
+2024-07-03 17:42:30,948 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/config.yaml
+2024-07-03 17:42:31,398 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: poll_exit
+2024-07-03 17:42:32,924 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 8
+2024-07-03 17:42:32,925 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: poll_exit
+2024-07-03 17:42:32,925 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:32,928 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 8
+2024-07-03 17:42:32,928 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:32,929 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-07-03 17:42:32,929 INFO    SenderThread:738355 [job_builder.py:build():440] Attempting to build job artifact
+2024-07-03 17:42:32,930 INFO    SenderThread:738355 [job_builder.py:_get_source_type():580] no source found
+2024-07-03 17:42:32,931 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 9
+2024-07-03 17:42:32,932 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:32,932 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 9
+2024-07-03 17:42:32,932 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:32,933 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-07-03 17:42:32,933 INFO    SenderThread:738355 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-07-03 17:42:32,948 INFO    Thread-60 :738355 [dir_watcher.py:_on_file_modified():288] file/dir modified: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:42:32,949 INFO    SenderThread:738355 [dir_watcher.py:finish():388] scan: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files
+2024-07-03 17:42:32,950 INFO    SenderThread:738355 [dir_watcher.py:finish():402] scan save: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/conda-environment.yaml conda-environment.yaml
+2024-07-03 17:42:32,951 INFO    SenderThread:738355 [dir_watcher.py:finish():402] scan save: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/wandb-metadata.json wandb-metadata.json
+2024-07-03 17:42:32,954 INFO    SenderThread:738355 [dir_watcher.py:finish():402] scan save: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/config.yaml config.yaml
+2024-07-03 17:42:32,954 INFO    SenderThread:738355 [dir_watcher.py:finish():402] scan save: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/requirements.txt requirements.txt
+2024-07-03 17:42:32,958 INFO    SenderThread:738355 [dir_watcher.py:finish():402] scan save: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/wandb-summary.json wandb-summary.json
+2024-07-03 17:42:32,959 INFO    SenderThread:738355 [dir_watcher.py:finish():402] scan save: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log output.log
+2024-07-03 17:42:32,963 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 10
+2024-07-03 17:42:32,967 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:32,967 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 10
+2024-07-03 17:42:32,969 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:32,969 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-07-03 17:42:32,969 INFO    SenderThread:738355 [file_pusher.py:finish():169] shutting down file pusher
+2024-07-03 17:42:33,137 INFO    wandb-upload_0:738355 [upload_job.py:push():130] Uploaded file /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/conda-environment.yaml
+2024-07-03 17:42:33,158 INFO    wandb-upload_4:738355 [upload_job.py:push():130] Uploaded file /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/output.log
+2024-07-03 17:42:33,169 INFO    wandb-upload_1:738355 [upload_job.py:push():130] Uploaded file /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/config.yaml
+2024-07-03 17:42:33,179 INFO    wandb-upload_3:738355 [upload_job.py:push():130] Uploaded file /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/wandb-summary.json
+2024-07-03 17:42:33,220 INFO    wandb-upload_2:738355 [upload_job.py:push():130] Uploaded file /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/files/requirements.txt
+2024-07-03 17:42:33,402 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: poll_exit
+2024-07-03 17:42:33,402 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: poll_exit
+2024-07-03 17:42:33,421 INFO    Thread-59 :738355 [sender.py:transition_state():614] send defer: 11
+2024-07-03 17:42:33,421 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:33,424 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 11
+2024-07-03 17:42:33,425 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:33,426 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-07-03 17:42:33,426 INFO    SenderThread:738355 [file_pusher.py:join():175] waiting for file pusher
+2024-07-03 17:42:33,427 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 12
+2024-07-03 17:42:33,428 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:33,428 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 12
+2024-07-03 17:42:33,428 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:33,429 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-07-03 17:42:33,429 INFO    SenderThread:738355 [file_stream.py:finish():601] file stream finish called
+2024-07-03 17:42:33,654 INFO    SenderThread:738355 [file_stream.py:finish():605] file stream finish is done
+2024-07-03 17:42:33,654 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 13
+2024-07-03 17:42:33,654 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:33,655 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 13
+2024-07-03 17:42:33,655 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:33,655 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-07-03 17:42:33,656 INFO    SenderThread:738355 [sender.py:transition_state():614] send defer: 14
+2024-07-03 17:42:33,656 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: defer
+2024-07-03 17:42:33,657 DEBUG   SenderThread:738355 [sender.py:send():379] send: final
+2024-07-03 17:42:33,657 INFO    HandlerThread:738355 [handler.py:handle_request_defer():184] handle defer: 14
+2024-07-03 17:42:33,657 DEBUG   SenderThread:738355 [sender.py:send():379] send: footer
+2024-07-03 17:42:33,658 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: defer
+2024-07-03 17:42:33,658 INFO    SenderThread:738355 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-07-03 17:42:33,659 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: poll_exit
+2024-07-03 17:42:33,660 DEBUG   SenderThread:738355 [sender.py:send_request():406] send_request: poll_exit
+2024-07-03 17:42:33,661 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: internal_messages
+2024-07-03 17:42:33,662 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: get_summary
+2024-07-03 17:42:33,662 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: sampled_history
+2024-07-03 17:42:33,664 DEBUG   HandlerThread:738355 [handler.py:handle_request():158] handle_request: shutdown
+2024-07-03 17:42:33,664 INFO    HandlerThread:738355 [handler.py:finish():882] shutting down handler
+2024-07-03 17:42:34,660 INFO    WriterThread:738355 [datastore.py:close():296] close: /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/run-yhzzeah5.wandb
+2024-07-03 17:42:34,660 INFO    SenderThread:738355 [sender.py:finish():1608] shutting down sender
+2024-07-03 17:42:34,660 INFO    SenderThread:738355 [file_pusher.py:finish():169] shutting down file pusher
+2024-07-03 17:42:34,661 INFO    SenderThread:738355 [file_pusher.py:join():175] waiting for file pusher

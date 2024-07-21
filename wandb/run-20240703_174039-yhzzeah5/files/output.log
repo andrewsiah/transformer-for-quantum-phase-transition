@@ -1,0 +1,15 @@
+
+Training Iterations:   1%|          | 1/150 [00:01<04:33,  1.83s/it]
+
+Training Iterations:   1%|▏         | 2/150 [00:03<04:17,  1.74s/it]
+Epoch 0
+
+Training Iterations:   2%|▏         | 3/150 [00:05<04:19,  1.77s/it]
+
+Training Iterations:   3%|▎         | 4/150 [00:07<04:19,  1.78s/it]
+
+
+Training Iterations:   4%|▍         | 6/150 [00:21<11:32,  4.81s/it]
+
+Training Iterations:   4%|▍         | 6/150 [00:27<11:07,  4.64s/it]
+torch.Size([300, 10, 4096])

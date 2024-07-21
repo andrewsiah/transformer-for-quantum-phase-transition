@@ -1,0 +1,12 @@
+Training...
+Epoch 0
+
+
+
+
+
+Training Iterations:   0%|                                              | 28/30000 [00:14<4:22:41,  1.90it/s]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/gpt2.py", line 149, in <module>
+    target_seq = input_seq[:, 1:, :]
+KeyboardInterrupt

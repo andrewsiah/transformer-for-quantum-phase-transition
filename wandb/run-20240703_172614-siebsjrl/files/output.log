@@ -1,0 +1,40 @@
+
+Training...
+  0%|                                                                                                                     | 0/200 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 2588911.5
+Lowest Loss at index: 10002, Loss: 2581177.0
+  0%|                                                                                                                     | 0/200 [15:27<?, ?it/s]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/new_transformers.py", line 153, in <module>
+    evaluate_model(model, test_dataloader, device, loss_fn)
+  File "/user/as6154/dissert/new_transformers.py", line 118, in evaluate_model
+    test_output = model(test_input_seq)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/dissert/new_transformers.py", line 82, in forward
+    output = self._backbone(inputs_embeds = embeds).last_hidden_state
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 1116, in forward
+    outputs = block(
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 614, in forward
+    attn_outputs = self.attn(
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 347, in forward
+    attn_output = self.c_proj(attn_output)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+KeyboardInterrupt

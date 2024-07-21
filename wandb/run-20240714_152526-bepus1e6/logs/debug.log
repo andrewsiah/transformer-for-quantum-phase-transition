@@ -1,0 +1,32 @@
+2024-07-14 15:25:26,590 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Current SDK version is 0.17.4
+2024-07-14 15:25:26,591 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Configure stats pid to 28017
+2024-07-14 15:25:26,591 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/.config/wandb/settings
+2024-07-14 15:25:26,591 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/dissert/wandb/settings
+2024-07-14 15:25:26,591 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-07-14 15:25:26,591 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-07-14 15:25:26,592 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-07-14 15:25:26,593 INFO    MainThread:28017 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-07-14 15:25:26,594 INFO    MainThread:28017 [wandb_init.py:_log_setup():529] Logging user logs to /user/as6154/dissert/wandb/run-20240714_152526-bepus1e6/logs/debug.log
+2024-07-14 15:25:26,594 INFO    MainThread:28017 [wandb_init.py:_log_setup():530] Logging internal logs to /user/as6154/dissert/wandb/run-20240714_152526-bepus1e6/logs/debug-internal.log
+2024-07-14 15:25:26,595 INFO    MainThread:28017 [wandb_init.py:_jupyter_setup():475] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f739f5ddcd0>
+2024-07-14 15:25:26,596 INFO    MainThread:28017 [wandb_init.py:init():569] calling init triggers
+2024-07-14 15:25:26,597 INFO    MainThread:28017 [wandb_init.py:init():576] wandb.init called with sweep_config: {}
+config: {}
+2024-07-14 15:25:26,598 INFO    MainThread:28017 [wandb_init.py:init():619] starting backend
+2024-07-14 15:25:26,598 INFO    MainThread:28017 [wandb_init.py:init():623] setting up manager
+2024-07-14 15:25:26,601 INFO    MainThread:28017 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-07-14 15:25:26,604 INFO    MainThread:28017 [wandb_init.py:init():631] backend started and connected
+2024-07-14 15:25:26,618 INFO    MainThread:28017 [wandb_run.py:_label_probe_notebook():1334] probe notebook
+2024-07-14 15:25:26,618 INFO    MainThread:28017 [wandb_run.py:_label_probe_notebook():1344] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-07-14 15:25:26,618 INFO    MainThread:28017 [wandb_init.py:init():720] updated telemetry
+2024-07-14 15:25:26,651 INFO    MainThread:28017 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-07-14 15:25:26,898 INFO    MainThread:28017 [wandb_run.py:_on_init():2402] communicating current version
+2024-07-14 15:25:26,936 INFO    MainThread:28017 [wandb_run.py:_on_init():2411] got version response 
+2024-07-14 15:25:26,937 INFO    MainThread:28017 [wandb_init.py:init():804] starting run threads in backend
+2024-07-14 15:25:27,498 INFO    MainThread:28017 [wandb_run.py:_console_start():2380] atexit reg
+2024-07-14 15:25:27,498 INFO    MainThread:28017 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2024-07-14 15:25:27,498 INFO    MainThread:28017 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2024-07-14 15:25:27,498 INFO    MainThread:28017 [wandb_run.py:_redirect():2325] Redirects installed.
+2024-07-14 15:25:27,504 INFO    MainThread:28017 [wandb_init.py:init():847] run started, returning control to user process
+2024-07-14 15:25:32,420 INFO    MainThread:28017 [jupyter.py:save_ipynb():372] not saving jupyter notebook
+2024-07-14 15:25:32,421 INFO    MainThread:28017 [wandb_init.py:_pause_backend():440] pausing backend

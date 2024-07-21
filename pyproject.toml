@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "dissert"
+version = "0.1.0"
+description = ""
+authors = ["andrew siah <theandrewsiah@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+jupyter = "^1.0.0"
+matplotlib = "^3.9.0"
+tqdm = "^4.66.4"
+dataset = "^1.6.2"
+numpy = "1.26.0"
+pandas = "^2.2.2"
+plotly = "^5.22.0"
+wandb = "^0.17.4"
+torch = "^2.3.1"
+torchvision = "^0.18.1"
+torchaudio = "^2.3.1"
+scikit-learn = "^1.5.1"
+transformers = "^4.42.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

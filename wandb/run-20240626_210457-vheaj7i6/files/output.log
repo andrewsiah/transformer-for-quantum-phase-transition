@@ -1,0 +1,33 @@
+No such comm: c1259f5278864cdfa2159d918f171e88
+No such comm: 16dcc5362e3a4ea699124d90d3942c94
+No such comm: 761b041cc1864f4fa020405e26b741bd
+No such comm: 71dbee63b46e4b55aed4d0fbd9eed0fd
+No such comm: 7361caa55038494a9aab7ffa2c179cdf
+No such comm: 690b60d6b6d54ae7911fa6abcb2a2718
+No such comm: 68d6142045c445ae8b42ef580884c1e3
+No such comm: ba5b3153bc2a477992031121556663dc
+No such comm: 86d04632cdc34e86b3fa359a32ba7d18
+No such comm: c5dff6ad908e476288b1c9c12116c192
+No such comm: 24a321182dcf4c529178d331b29c3f3e
+No such comm: 047b887d0cdf4e42b4827e5a1143402c
+No such comm: 86d90b2d70c5435fa3da23ad65c5f90f
+No such comm: 754788399f7748cfb13724b1297ebe2c
+No such comm: 1a3ab212d7224a04a89bd97e1bfe6f6c
+No such comm: e6a4a6b38472457fb711859350558f5f
+100%|██████████| 799/799 [00:00<00:00, 1503.53it/s]
+Binned values loaded from pickle file (first 10): [[7499  829  829 ...  829  829  829]
+ [7499  829  829 ...  829  829  829]
+ [7499  829  829 ...  829  829  829]
+ ...
+ [7499  829  829 ...  829  829  829]
+ [7499  829  829 ...  829  829  829]
+ [7499  829  829 ...  829  829  829]]
+Binned values (last 10): [[829 829 829 ... 829 829 829]
+ [829 829 829 ... 829 829 829]
+ [829 829 829 ... 829 829 829]
+ ...
+ [829 829 829 ... 829 829 829]
+ [829 829 829 ... 829 829 829]
+ [829 829 829 ... 829 829 829]]
+[2024-06-26 21:05:15,206] [INFO] [real_accelerator.py:133:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+torch.Size([4, 10, 4096])

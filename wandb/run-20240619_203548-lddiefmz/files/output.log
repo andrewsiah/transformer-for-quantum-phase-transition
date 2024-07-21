@@ -1,0 +1,24 @@
+
+  0%|          | 0/1 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7548405.5
+Lowest Loss at index: 15, Loss: 7541686.5
+Epoch [1/1], Step [100/200], Loss: 7545113.0
+Highest Loss at index: 0, Loss: 7423125.0
+Lowest Loss at index: 15, Loss: 7416467.0
+
+100%|██████████| 1/1 [00:41<00:00, 41.89s/it]
+No such comm: 256ef685084440a0982d0bb187a3814c
+No such comm: 26f54fd4ae0342f2b4d3063a2311a645
+No such comm: 1fd62bca62e34f2792f22410dd50dca2
+No such comm: 353582eb00a94bba8566636e42511d9c
+No such comm: 10246f9388684470a740330de21be646
+No such comm: 59b26e9a508d4cdc870c4f630064a1b6
+No such comm: 578cda4373394015982f2be247d8e4d7
+No such comm: b39b4f82bd03486f870690406ca90c2f
+No such comm: d7d326b43843425e81442de5615711cb
+No such comm: 550c62b2e1ba4ad489c5b6394a505c07
+No such comm: 0e6673c7598d48f09238432c15185253
+No such comm: 48e7ca8da4594ec885085e35d3ef1dae
+No such comm: 1ec5350da4d84326afe391f75b835ee6
+No such comm: 9435d2aae71c4d6c8715b1bddfdbaf20
+No such comm: e5604b348a1b4512b3b29b84488e47d6

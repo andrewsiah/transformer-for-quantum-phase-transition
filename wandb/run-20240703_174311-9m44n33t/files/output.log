@@ -1,0 +1,99 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  80%|████████████████████████████████████████████████████████              | 80/100 [07:10<01:47,  5.38s/it]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/new_transformers.py", line 150, in <module>
+    optimizer.step()
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/lr_scheduler.py", line 75, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/optimizer.py", line 391, in wrapper
+    out = func(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/adamw.py", line 188, in step
+    adamw(
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/adamw.py", line 340, in adamw
+    func(
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/adamw.py", line 550, in _multi_tensor_adamw
+    torch._foreach_lerp_(device_exp_avgs, device_grads, 1 - beta1)
+KeyboardInterrupt

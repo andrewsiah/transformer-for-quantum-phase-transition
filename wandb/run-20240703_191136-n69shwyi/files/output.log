@@ -1,0 +1,247 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  98%|███████████████████████████████████████████████████████████████████████████████████▎ | 49/50 [04:47<00:05,  5.73s/it]
+Training Iterations: 100%|█████████████████████████████████████████████████████████████████████████████████████| 50/50 [04:52<00:00,  5.86s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  98%|███████████████████████████████████████████████████████████████████████████████████▎ | 49/50 [04:18<00:05,  5.51s/it]
+Training Iterations: 100%|█████████████████████████████████████████████████████████████████████████████████████| 50/50 [04:24<00:00,  5.30s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  98%|███████████████████████████████████████████████████████████████████████████████████▎ | 49/50 [04:52<00:06,  6.49s/it]
+Training Iterations: 100%|█████████████████████████████████████████████████████████████████████████████████████| 50/50 [04:57<00:00,  5.95s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|█████████████████████████████████████████████████████████████████████████████████████| 50/50 [04:43<00:00,  5.67s/it]
+Training Iterations:   0%|                                                                                              | 0/50 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Iterations:  48%|████████████████████████████████████████▊                                            | 24/50 [02:14<02:25,  5.60s/it]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/new_transformers.py", line 158, in <module>
+    optimizer.step()
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/lr_scheduler.py", line 75, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/optimizer.py", line 391, in wrapper
+    out = func(*args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/adamw.py", line 188, in step
+    adamw(
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/adamw.py", line 340, in adamw
+    func(
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/optim/adamw.py", line 611, in _multi_tensor_adamw
+    torch._foreach_div_(exp_avg_sq_sqrt, bias_correction2_sqrt)
+KeyboardInterrupt

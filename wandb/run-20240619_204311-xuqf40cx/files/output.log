@@ -1,0 +1,20 @@
+/user/as6154/.conda/envs/pytorch/lib/python3.11/site-packages/transformers/optimization.py:407: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+
+  0%|          | 0/100 [00:27<?, ?it/s]
+No such comm: 7bf51a2a3ebd48f8b7a54ded0d10ad8e
+No such comm: b797603ff60940148f7c2db880e5e6df
+No such comm: c27ef60a65d9481292c56d1fdccc6cf4
+No such comm: 63ec23d9d7654dcd8e9b8431131d60bb
+No such comm: 912cfdb5ba73407c9d3b3e2c523d92e9
+No such comm: b341ce326fe147d6b9467b8863a9cb2f
+No such comm: 3dea3976d27a4de995dd97cca7da9ad8
+No such comm: 2caa44aad9564039b1693e56beb999f6
+No such comm: 66af5b6e30b943cebb2da2af35bc704f
+No such comm: ea4fdf6cc2ec4f3baf2d8b8fbb05c6ec
+No such comm: 1e052d1a2ccb4e3baaa59595d4bba432
+No such comm: 61d01a9746114ce4a2b66f467dc8b260
+No such comm: fe93308131764975bdff20104c764e49
+No such comm: 545831fe564b463c9937b79b95692be5
+No such comm: 0f628abd68c94bf1ad2433dbf40ee2c3
+No such comm: 159d8b37110941efb948991b9684f882

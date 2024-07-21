@@ -1,0 +1,18 @@
+Training...
+Epoch 0
+Training Iterations:   0%|                                                                                           | 0/30000 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/gpt2.py", line 148, in <module>
+    model.to(device)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1173, in to
+    return self._apply(convert)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 779, in _apply
+    module._apply(fn)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 804, in _apply
+    param_applied = fn(param)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1159, in convert
+    return t.to(
+RuntimeError: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.

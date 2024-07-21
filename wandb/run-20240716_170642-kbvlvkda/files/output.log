@@ -1,0 +1,2039 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:31<00:00,  9.17s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 10375668.0
+Lowest Loss at index: 3, Loss: 10365258.0
+Epoch [1/200], Step [10/10], Loss: 10368288.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.68s/it]
+Highest Loss at index: 0, Loss: 10371234.0
+Lowest Loss at index: 3, Loss: 10360829.0
+Epoch [2/200], Step [10/10], Loss: 10364032.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.18s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:41<00:04,  4.54s/it]
+Highest Loss at index: 0, Loss: 10365307.0
+Lowest Loss at index: 3, Loss: 10354906.0
+Epoch [3/200], Step [10/10], Loss: 10357890.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:16<00:00,  7.60s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.06s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 10356499.0
+Lowest Loss at index: 3, Loss: 10346099.0
+Epoch [4/200], Step [10/10], Loss: 10349490.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.74s/it]
+Highest Loss at index: 0, Loss: 10344802.0
+Lowest Loss at index: 3, Loss: 10334410.0
+Epoch [5/200], Step [10/10], Loss: 10338532.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.25s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.39s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 10330158.0
+Lowest Loss at index: 3, Loss: 10319773.0
+Epoch [6/200], Step [10/10], Loss: 10324048.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:51<00:05,  5.76s/it]
+Highest Loss at index: 0, Loss: 10312573.0
+Lowest Loss at index: 3, Loss: 10302198.0
+Epoch [7/200], Step [10/10], Loss: 10306484.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:24<00:00,  8.47s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.12s/it]
+Highest Loss at index: 0, Loss: 10292068.0
+Lowest Loss at index: 3, Loss: 10281702.0
+Epoch [8/200], Step [10/10], Loss: 10286278.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.22s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.62s/it]
+Highest Loss at index: 0, Loss: 10268651.0
+Lowest Loss at index: 3, Loss: 10258297.0
+Epoch [9/200], Step [10/10], Loss: 10263225.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.28s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.53s/it]
+Highest Loss at index: 0, Loss: 10242316.0
+Lowest Loss at index: 3, Loss: 10231975.0
+Epoch [10/200], Step [10/10], Loss: 10237293.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:25<00:00,  8.53s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.61s/it]
+Highest Loss at index: 0, Loss: 10214374.0
+Lowest Loss at index: 3, Loss: 10204048.0
+Epoch [11/200], Step [10/10], Loss: 10209485.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:24<00:00,  8.41s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.15s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 10186461.0
+Lowest Loss at index: 3, Loss: 10176148.0
+Epoch [12/200], Step [10/10], Loss: 10181402.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.21s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 10158593.0
+Lowest Loss at index: 3, Loss: 10148294.0
+Epoch [13/200], Step [10/10], Loss: 10153552.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.76s/it]
+Highest Loss at index: 0, Loss: 10130779.0
+Lowest Loss at index: 3, Loss: 10120492.0
+Epoch [14/200], Step [10/10], Loss: 10125624.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:25<00:00,  8.55s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:44<00:05,  5.21s/it]
+Highest Loss at index: 0, Loss: 10103019.0
+Lowest Loss at index: 3, Loss: 10092746.0
+Epoch [15/200], Step [10/10], Loss: 10097762.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:19<00:00,  7.98s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:05,  5.58s/it]
+Highest Loss at index: 0, Loss: 10075312.0
+Lowest Loss at index: 3, Loss: 10065055.0
+Epoch [16/200], Step [10/10], Loss: 10070292.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.02s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:52<00:05,  5.93s/it]
+Highest Loss at index: 0, Loss: 10047659.0
+Lowest Loss at index: 3, Loss: 10037415.0
+Epoch [17/200], Step [10/10], Loss: 10042662.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:25<00:00,  8.51s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.68s/it]
+Highest Loss at index: 0, Loss: 10020055.0
+Lowest Loss at index: 3, Loss: 10009825.0
+Epoch [18/200], Step [10/10], Loss: 10015131.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.21s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.67s/it]
+Highest Loss at index: 0, Loss: 9992497.0
+Lowest Loss at index: 3, Loss: 9982281.0
+Epoch [19/200], Step [10/10], Loss: 9987723.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.19s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.16s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9964987.0
+Lowest Loss at index: 3, Loss: 9954781.0
+Epoch [20/200], Step [10/10], Loss: 9959549.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:43<00:04,  4.95s/it]
+Highest Loss at index: 0, Loss: 9937513.0
+Lowest Loss at index: 3, Loss: 9927325.0
+Epoch [21/200], Step [10/10], Loss: 9932780.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:19<00:00,  7.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:44<00:04,  4.80s/it]
+Highest Loss at index: 0, Loss: 9910081.0
+Lowest Loss at index: 3, Loss: 9899908.0
+Epoch [22/200], Step [10/10], Loss: 9905553.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:18<00:00,  7.83s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.07s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9882690.0
+Lowest Loss at index: 3, Loss: 9872530.0
+Epoch [23/200], Step [10/10], Loss: 9878467.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:05,  5.58s/it]
+Highest Loss at index: 0, Loss: 9855337.0
+Lowest Loss at index: 3, Loss: 9845193.0
+Epoch [24/200], Step [10/10], Loss: 9850418.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.14s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:50<00:05,  5.77s/it]
+Highest Loss at index: 0, Loss: 9828024.0
+Lowest Loss at index: 3, Loss: 9817892.0
+Epoch [25/200], Step [10/10], Loss: 9823313.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.36s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.35s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9800751.0
+Lowest Loss at index: 3, Loss: 9790630.0
+Epoch [26/200], Step [10/10], Loss: 9795848.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.24s/it]
+Highest Loss at index: 0, Loss: 9773513.0
+Lowest Loss at index: 3, Loss: 9763412.0
+Epoch [27/200], Step [10/10], Loss: 9769382.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.32s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:04,  4.89s/it]
+Highest Loss at index: 0, Loss: 9746322.0
+Lowest Loss at index: 3, Loss: 9736237.0
+Epoch [28/200], Step [10/10], Loss: 9741569.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.36s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:25<00:00,  8.56s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9719177.0
+Lowest Loss at index: 3, Loss: 9709098.0
+Epoch [29/200], Step [10/10], Loss: 9714037.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:46<00:05,  5.34s/it]
+Highest Loss at index: 0, Loss: 9692068.0
+Lowest Loss at index: 3, Loss: 9682008.0
+Epoch [30/200], Step [10/10], Loss: 9687041.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.25s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:52<00:05,  5.76s/it]
+Highest Loss at index: 0, Loss: 9665017.0
+Lowest Loss at index: 3, Loss: 9654969.0
+Epoch [31/200], Step [10/10], Loss: 9660528.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:28<00:00,  8.83s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:05,  5.05s/it]
+Highest Loss at index: 0, Loss: 9638009.0
+Lowest Loss at index: 3, Loss: 9627979.0
+Epoch [32/200], Step [10/10], Loss: 9633041.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.20s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.68s/it]
+Highest Loss at index: 0, Loss: 9611060.0
+Lowest Loss at index: 3, Loss: 9601040.0
+Epoch [33/200], Step [10/10], Loss: 9606018.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.31s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.04s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9584167.0
+Lowest Loss at index: 3, Loss: 9574163.0
+Epoch [34/200], Step [10/10], Loss: 9579523.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:50<00:05,  5.46s/it]
+Highest Loss at index: 0, Loss: 9557332.0
+Lowest Loss at index: 3, Loss: 9547345.0
+Epoch [35/200], Step [10/10], Loss: 9552226.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.32s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:46<00:04,  4.93s/it]
+Highest Loss at index: 0, Loss: 9530552.0
+Lowest Loss at index: 3, Loss: 9520579.0
+Epoch [36/200], Step [10/10], Loss: 9526259.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.04s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:44<00:05,  5.17s/it]
+Highest Loss at index: 0, Loss: 9503842.0
+Lowest Loss at index: 3, Loss: 9493880.0
+Epoch [37/200], Step [10/10], Loss: 9499185.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:19<00:00,  7.93s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:44<00:05,  5.24s/it]
+Highest Loss at index: 0, Loss: 9477200.0
+Lowest Loss at index: 3, Loss: 9467255.0
+Epoch [38/200], Step [10/10], Loss: 9472600.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:18<00:00,  7.88s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.47s/it]
+Highest Loss at index: 0, Loss: 9450633.0
+Lowest Loss at index: 3, Loss: 9440700.0
+Epoch [39/200], Step [10/10], Loss: 9446153.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.35s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:45<00:04,  4.88s/it]
+Highest Loss at index: 0, Loss: 9424142.0
+Lowest Loss at index: 3, Loss: 9414222.0
+Epoch [40/200], Step [10/10], Loss: 9419392.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:18<00:00,  7.85s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.36s/it]
+Highest Loss at index: 0, Loss: 9397712.0
+Lowest Loss at index: 3, Loss: 9387808.0
+Epoch [41/200], Step [10/10], Loss: 9392714.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.20s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:46<00:05,  5.53s/it]
+Highest Loss at index: 0, Loss: 9371369.0
+Lowest Loss at index: 3, Loss: 9361480.0
+Epoch [42/200], Step [10/10], Loss: 9366254.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:19<00:00,  7.99s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:51<00:05,  5.69s/it]
+Highest Loss at index: 0, Loss: 9345113.0
+Lowest Loss at index: 3, Loss: 9335237.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:26<00:00,  8.66s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:05,  5.45s/it]
+Highest Loss at index: 0, Loss: 9318943.0
+Lowest Loss at index: 3, Loss: 9309084.0
+Epoch [44/200], Step [10/10], Loss: 9314277.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.16s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.68s/it]
+Highest Loss at index: 0, Loss: 9292865.0
+Lowest Loss at index: 3, Loss: 9283017.0
+Epoch [45/200], Step [10/10], Loss: 9288126.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.40s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:05,  5.09s/it]
+Highest Loss at index: 0, Loss: 9266875.0
+Lowest Loss at index: 3, Loss: 9257042.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:18<00:00,  7.87s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:48<00:05,  5.52s/it]
+Highest Loss at index: 0, Loss: 9240969.0
+Lowest Loss at index: 3, Loss: 9231151.0
+Epoch [47/200], Step [10/10], Loss: 9236086.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.20s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:49<00:05,  5.69s/it]
+Highest Loss at index: 0, Loss: 9215168.0
+Lowest Loss at index: 3, Loss: 9205362.0
+Epoch [48/200], Step [10/10], Loss: 9210473.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.19s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:44<00:04,  4.78s/it]
+Training Iterations: 100%|██████████████████████| 10/10 [01:14<00:00,  7.48s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Lowest Loss at index: 3, Loss: 9179673.0
+Epoch [49/200], Step [10/10], Loss: 9184837.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:26<00:00,  8.64s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9163868.0
+Lowest Loss at index: 3, Loss: 9154091.0
+Epoch [50/200], Step [10/10], Loss: 9159342.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:22<00:00,  8.21s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9138375.0
+Lowest Loss at index: 3, Loss: 9128608.0
+Epoch [51/200], Step [10/10], Loss: 9133549.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:04,  4.90s/it]
+Highest Loss at index: 0, Loss: 9112991.0
+Lowest Loss at index: 3, Loss: 9103239.0
+Epoch [52/200], Step [10/10], Loss: 9108192.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.10s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:51<00:05,  5.87s/it]
+Highest Loss at index: 0, Loss: 9087709.0
+Lowest Loss at index: 3, Loss: 9077972.0
+Epoch [53/200], Step [10/10], Loss: 9082703.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:26<00:00,  8.64s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.31s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 9062537.0
+Lowest Loss at index: 3, Loss: 9052813.0
+Epoch [54/200], Step [10/10], Loss: 9057610.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:50<00:05,  5.32s/it]
+Highest Loss at index: 0, Loss: 9037481.0
+Lowest Loss at index: 3, Loss: 9027772.0
+Epoch [55/200], Step [10/10], Loss: 9032755.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:23<00:00,  8.32s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:46<00:04,  4.94s/it]
+Highest Loss at index: 0, Loss: 9012545.0
+Lowest Loss at index: 3, Loss: 9002849.0
+Epoch [56/200], Step [10/10], Loss: 9007570.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.15s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:17<00:00,  7.72s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8987729.0
+Lowest Loss at index: 3, Loss: 8978046.0
+Epoch [57/200], Step [10/10], Loss: 8982847.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:04,  4.99s/it]
+Highest Loss at index: 0, Loss: 8963037.0
+Lowest Loss at index: 3, Loss: 8953367.0
+Epoch [58/200], Step [10/10], Loss: 8958149.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.14s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:04,  4.80s/it]
+Highest Loss at index: 0, Loss: 8938466.0
+Lowest Loss at index: 3, Loss: 8928810.0
+Epoch [59/200], Step [10/10], Loss: 8934005.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:21<00:00,  8.14s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:47<00:05,  5.55s/it]
+Highest Loss at index: 0, Loss: 8914013.0
+Lowest Loss at index: 3, Loss: 8904371.0
+Epoch [60/200], Step [10/10], Loss: 8909024.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.01s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:19<00:00,  7.97s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8889686.0
+Lowest Loss at index: 3, Loss: 8880057.0
+Epoch [61/200], Step [10/10], Loss: 8884781.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:52<00:05,  5.81s/it]
+Highest Loss at index: 0, Loss: 8865490.0
+Lowest Loss at index: 3, Loss: 8855875.0
+Epoch [62/200], Step [10/10], Loss: 8861029.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:28<00:00,  8.84s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:45<00:05,  5.10s/it]
+Highest Loss at index: 0, Loss: 8841430.0
+Lowest Loss at index: 3, Loss: 8831826.0
+Epoch [63/200], Step [10/10], Loss: 8836875.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:20<00:00,  8.03s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:44<00:04,  4.62s/it]
+Highest Loss at index: 0, Loss: 8817501.0
+Lowest Loss at index: 3, Loss: 8807911.0
+Epoch [64/200], Step [10/10], Loss: 8812409.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:14<00:00,  7.45s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 8793713.0
+Lowest Loss at index: 3, Loss: 8784135.0
+Epoch [65/200], Step [10/10], Loss: 8788757.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 8770073.0
+Lowest Loss at index: 3, Loss: 8760510.0
+Epoch [66/200], Step [10/10], Loss: 8765295.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.92s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8746542.0
+Lowest Loss at index: 3, Loss: 8736992.0
+Epoch [67/200], Step [10/10], Loss: 8741586.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.92s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8723160.0
+Lowest Loss at index: 3, Loss: 8713622.0
+Epoch [68/200], Step [10/10], Loss: 8718020.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8699922.0
+Lowest Loss at index: 3, Loss: 8690397.0
+Epoch [69/200], Step [10/10], Loss: 8694996.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.42s/it]
+Highest Loss at index: 0, Loss: 8676829.0
+Lowest Loss at index: 3, Loss: 8667318.0
+Epoch [70/200], Step [10/10], Loss: 8672096.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.95s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8653881.0
+Lowest Loss at index: 3, Loss: 8644382.0
+Epoch [71/200], Step [10/10], Loss: 8648838.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8631079.0
+Lowest Loss at index: 3, Loss: 8621593.0
+Epoch [72/200], Step [10/10], Loss: 8626384.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8608427.0
+Lowest Loss at index: 3, Loss: 8598953.0
+Epoch [73/200], Step [10/10], Loss: 8603631.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8585924.0
+Lowest Loss at index: 3, Loss: 8576462.0
+Epoch [74/200], Step [10/10], Loss: 8581538.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8563571.0
+Lowest Loss at index: 3, Loss: 8554122.0
+Epoch [75/200], Step [10/10], Loss: 8558674.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.42s/it]
+Highest Loss at index: 0, Loss: 8541373.0
+Lowest Loss at index: 3, Loss: 8531937.0
+Epoch [76/200], Step [10/10], Loss: 8536725.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.95s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8519319.0
+Lowest Loss at index: 3, Loss: 8509895.0
+Epoch [77/200], Step [10/10], Loss: 8514692.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.42s/it]
+Highest Loss at index: 0, Loss: 8497425.0
+Lowest Loss at index: 3, Loss: 8488014.0
+Epoch [78/200], Step [10/10], Loss: 8492690.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8475687.0
+Lowest Loss at index: 3, Loss: 8466288.0
+Epoch [79/200], Step [10/10], Loss: 8470896.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8454108.0
+Lowest Loss at index: 3, Loss: 8444720.0
+Epoch [80/200], Step [10/10], Loss: 8449246.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8432688.0
+Lowest Loss at index: 3, Loss: 8423312.0
+Epoch [81/200], Step [10/10], Loss: 8428095.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8411429.0
+Lowest Loss at index: 3, Loss: 8402066.0
+Epoch [82/200], Step [10/10], Loss: 8406616.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8390336.0
+Lowest Loss at index: 3, Loss: 8380984.0
+Epoch [83/200], Step [10/10], Loss: 8385085.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8369385.0
+Lowest Loss at index: 3, Loss: 8360046.0
+Epoch [84/200], Step [10/10], Loss: 8364363.5
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8348605.5
+Lowest Loss at index: 3, Loss: 8339278.0
+Epoch [85/200], Step [10/10], Loss: 8343871.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8327991.0
+Lowest Loss at index: 3, Loss: 8318675.0
+Epoch [86/200], Step [10/10], Loss: 8323273.5
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 8307541.5
+Lowest Loss at index: 3, Loss: 8298237.5
+Epoch [87/200], Step [10/10], Loss: 8302376.5
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8287257.5
+Lowest Loss at index: 3, Loss: 8277966.0
+Epoch [88/200], Step [10/10], Loss: 8282178.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8267141.0
+Lowest Loss at index: 3, Loss: 8257860.5
+Epoch [89/200], Step [10/10], Loss: 8261786.5
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8247192.0
+Lowest Loss at index: 3, Loss: 8237922.5
+Epoch [90/200], Step [10/10], Loss: 8242174.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8227410.5
+Lowest Loss at index: 3, Loss: 8218153.0
+Epoch [91/200], Step [10/10], Loss: 8222356.0
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.95s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8207799.0
+Lowest Loss at index: 3, Loss: 8198552.0
+Epoch [92/200], Step [10/10], Loss: 8203109.0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8188364.0
+Lowest Loss at index: 3, Loss: 8179128.0
+Epoch [93/200], Step [10/10], Loss: 8183249.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.95s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8169080.0
+Lowest Loss at index: 3, Loss: 8159855.0
+Epoch [94/200], Step [10/10], Loss: 8163802.5
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8149973.5
+Lowest Loss at index: 3, Loss: 8140759.0
+Epoch [95/200], Step [10/10], Loss: 8145126.5
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8131040.0
+Lowest Loss at index: 3, Loss: 8121836.5
+Epoch [96/200], Step [10/10], Loss: 8126293.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8112279.0
+Lowest Loss at index: 3, Loss: 8103087.0
+Epoch [97/200], Step [10/10], Loss: 8107291.5
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.93s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8093692.0
+Lowest Loss at index: 3, Loss: 8084510.5
+Epoch [98/200], Step [10/10], Loss: 8089148.5
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 8075278.5
+Lowest Loss at index: 3, Loss: 8066107.5
+Epoch [99/200], Step [10/10], Loss: 8070228.0
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+
+
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8057039.0
+Lowest Loss at index: 3, Loss: 8047879.5
+Epoch [100/200], Step [10/10], Loss: 8051920.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.39s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8038975.0
+Lowest Loss at index: 3, Loss: 8029825.5
+Epoch [101/200], Step [10/10], Loss: 8034117.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.39s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.39s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8021086.5
+Lowest Loss at index: 3, Loss: 8011947.5
+Epoch [102/200], Step [10/10], Loss: 8016196.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 8003374.5
+Lowest Loss at index: 3, Loss: 7994245.0
+Epoch [103/200], Step [10/10], Loss: 7998169.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.39s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.42s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 7985836.5
+Lowest Loss at index: 3, Loss: 7976719.0
+Epoch [104/200], Step [10/10], Loss: 7980778.5
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.39s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.39s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7968474.5
+Lowest Loss at index: 3, Loss: 7959367.0
+Epoch [105/200], Step [10/10], Loss: 7963266.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7951290.5
+Lowest Loss at index: 3, Loss: 7942192.5
+Epoch [106/200], Step [10/10], Loss: 7946324.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7934285.5
+Lowest Loss at index: 3, Loss: 7925196.5
+Epoch [107/200], Step [10/10], Loss: 7929110.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7917454.0
+Lowest Loss at index: 3, Loss: 7908375.5
+Epoch [108/200], Step [10/10], Loss: 7911890.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7900803.5
+Lowest Loss at index: 3, Loss: 7891735.0
+Epoch [109/200], Step [10/10], Loss: 7895492.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.39s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.39s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.39s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7884332.0
+Lowest Loss at index: 3, Loss: 7875273.5
+Epoch [110/200], Step [10/10], Loss: 7879295.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:40,  4.47s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.46s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:31,  4.45s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.44s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.44s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.44s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:31<00:13,  4.44s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.43s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.42s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7868041.0
+Lowest Loss at index: 3, Loss: 7858991.0
+Epoch [111/200], Step [10/10], Loss: 7863195.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.39s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.39s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.39s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.39s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.39s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7851929.5
+Lowest Loss at index: 3, Loss: 7842889.5
+Epoch [112/200], Step [10/10], Loss: 7846591.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:31,  4.43s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.43s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.43s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.44s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:31<00:13,  4.44s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.42s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.42s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7835997.5
+Lowest Loss at index: 3, Loss: 7826967.0
+Epoch [113/200], Step [10/10], Loss: 7830815.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.39s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7820247.0
+Lowest Loss at index: 3, Loss: 7811225.5
+Epoch [114/200], Step [10/10], Loss: 7814769.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:21,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 7804677.0
+Lowest Loss at index: 3, Loss: 7795665.0
+Epoch [115/200], Step [10/10], Loss: 7799824.5
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.43s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.43s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.42s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.42s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7789285.0
+Lowest Loss at index: 3, Loss: 7780282.5
+Epoch [116/200], Step [10/10], Loss: 7784261.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.43s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.42s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.42s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.42s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7774074.5
+Lowest Loss at index: 3, Loss: 7765080.0
+Epoch [117/200], Step [10/10], Loss: 7768699.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 7759045.0
+Lowest Loss at index: 3, Loss: 7750060.0
+Epoch [118/200], Step [10/10], Loss: 7753664.5
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7744197.0
+Lowest Loss at index: 3, Loss: 7735221.5
+Epoch [119/200], Step [10/10], Loss: 7739022.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.43s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7729532.0
+Lowest Loss at index: 3, Loss: 7720564.5
+Epoch [120/200], Step [10/10], Loss: 7724174.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 7715047.5
+Lowest Loss at index: 3, Loss: 7706089.0
+Epoch [121/200], Step [10/10], Loss: 7709735.0
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.43s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7700747.5
+Lowest Loss at index: 3, Loss: 7691796.5
+Epoch [122/200], Step [10/10], Loss: 7695371.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7686627.5
+Lowest Loss at index: 3, Loss: 7677685.5
+Epoch [123/200], Step [10/10], Loss: 7681087.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.42s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 7672692.5
+Lowest Loss at index: 3, Loss: 7663758.0
+Epoch [124/200], Step [10/10], Loss: 7667275.5
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.42s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.44s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.44s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:31<00:13,  4.44s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.44s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.45s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7658938.5
+Lowest Loss at index: 3, Loss: 7650014.0
+Epoch [125/200], Step [10/10], Loss: 7653829.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.39s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.39s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.42s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7645369.5
+Lowest Loss at index: 3, Loss: 7636451.5
+Epoch [126/200], Step [10/10], Loss: 7639900.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Lowest Loss at index: 3, Loss: 7623070.0
+Epoch [127/200], Step [10/10], Loss: 7626545.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:40,  4.45s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.39s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7618771.5
+Lowest Loss at index: 3, Loss: 7609870.0
+Epoch [128/200], Step [10/10], Loss: 7613715.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.38s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.38s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.38s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.38s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.39s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.39s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.39s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.39s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.39s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.39s/it]
+Highest Loss at index: 0, Loss: 7605747.5
+Lowest Loss at index: 3, Loss: 7596853.5
+Epoch [129/200], Step [10/10], Loss: 7600241.0
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.38s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.38s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.39s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.39s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:21<00:21,  4.39s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.39s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.38s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.38s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.38s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7592907.5
+Lowest Loss at index: 3, Loss: 7584020.5
+Epoch [130/200], Step [10/10], Loss: 7587401.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.43s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.43s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.43s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.42s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.43s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.42s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7580249.5
+Lowest Loss at index: 3, Loss: 7571371.5
+Epoch [131/200], Step [10/10], Loss: 7574488.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7567776.0
+Lowest Loss at index: 3, Loss: 7558905.5
+Epoch [132/200], Step [10/10], Loss: 7562211.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7555486.5
+Lowest Loss at index: 3, Loss: 7546622.5
+Epoch [133/200], Step [10/10], Loss: 7550093.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.44s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.42s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.42s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.43s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.42s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.42s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7543380.5
+Lowest Loss at index: 3, Loss: 7534524.0
+Epoch [134/200], Step [10/10], Loss: 7537657.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.42s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7531458.5
+Lowest Loss at index: 3, Loss: 7522610.0
+Epoch [135/200], Step [10/10], Loss: 7525870.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7519721.0
+Lowest Loss at index: 3, Loss: 7510878.5
+Epoch [136/200], Step [10/10], Loss: 7514102.0
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7508166.0
+Lowest Loss at index: 3, Loss: 7499331.0
+Epoch [137/200], Step [10/10], Loss: 7502548.0
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:22<00:22,  4.42s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7496796.0
+Lowest Loss at index: 3, Loss: 7487968.0
+Epoch [138/200], Step [10/10], Loss: 7491438.0
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.40s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.42s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.42s/it]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7485609.0
+Lowest Loss at index: 3, Loss: 7476787.0
+Epoch [139/200], Step [10/10], Loss: 7480281.0
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:22<00:21,  4.40s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7474605.5
+Lowest Loss at index: 3, Loss: 7465790.0
+Epoch [140/200], Step [10/10], Loss: 7469318.0
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:22<00:22,  4.40s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 7463786.0
+Lowest Loss at index: 3, Loss: 7454976.5
+Epoch [141/200], Step [10/10], Loss: 7458090.5
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.39s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.41s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.42s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.42s/it]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7453150.5
+Lowest Loss at index: 3, Loss: 7444348.0
+Epoch [142/200], Step [10/10], Loss: 7447518.0
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.41s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.40s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.40s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.40s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:21<00:21,  4.40s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.40s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.40s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.40s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.40s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.40s/it]
+Highest Loss at index: 0, Loss: 7442699.5
+Lowest Loss at index: 3, Loss: 7433903.0
+Epoch [143/200], Step [10/10], Loss: 7436878.5
+Training Iterations:   0%|                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+Training Iterations:  10%|████████████▌                                                                                                                | 1/10 [00:04<00:39,  4.42s/it]
+Training Iterations:  20%|█████████████████████████                                                                                                    | 2/10 [00:08<00:35,  4.42s/it]
+Training Iterations:  30%|█████████████████████████████████████▌                                                                                       | 3/10 [00:13<00:30,  4.41s/it]
+Training Iterations:  40%|██████████████████████████████████████████████████                                                                           | 4/10 [00:17<00:26,  4.41s/it]
+Training Iterations:  50%|██████████████████████████████████████████████████████████████▌                                                              | 5/10 [00:22<00:22,  4.41s/it]
+Training Iterations:  60%|███████████████████████████████████████████████████████████████████████████                                                  | 6/10 [00:26<00:17,  4.41s/it]
+Training Iterations:  70%|███████████████████████████████████████████████████████████████████████████████████████▌                                     | 7/10 [00:30<00:13,  4.41s/it]
+Training Iterations:  80%|████████████████████████████████████████████████████████████████████████████████████████████████████                         | 8/10 [00:35<00:08,  4.41s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.41s/it]
+Training Iterations:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 9/10 [00:39<00:04,  4.41s/it]
+Highest Loss at index: 0, Loss: 7432432.0
+Lowest Loss at index: 3, Loss: 7423641.5
+Epoch [144/200], Step [10/10], Loss: 7426897.0
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.42s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.43s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  60%|█████████████▊         | 6/10 [00:26<00:17,  4.42s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  70%|████████████████       | 7/10 [00:30<00:13,  4.42s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  80%|██████████████████▍    | 8/10 [00:35<00:08,  4.42s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  90%|████████████████████▋  | 9/10 [00:39<00:04,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:   0%|                               | 0/10 [00:00<?, ?it/s]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Highest Loss at index: 0, Loss: 7422349.5
+Lowest Loss at index: 3, Loss: 7413564.5
+Epoch [145/200], Step [10/10], Loss: 7416635.5
+Training Iterations:  10%|██▎                    | 1/10 [00:04<00:39,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  20%|████▌                  | 2/10 [00:08<00:35,  4.40s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  30%|██████▉                | 3/10 [00:13<00:30,  4.40s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  40%|█████████▏             | 4/10 [00:17<00:26,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+Training Iterations:  50%|███████████▌           | 5/10 [00:22<00:22,  4.41s/it]██████████████████████████████████████████████████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+KeyboardInterrupttensor(sequence, dtype=torch.float32)etitem__x]s/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>███████████████████████████| 10/10 [01:09<00:00,  6.94s/it]
+KeyboardInterrupttensor(sequence, dtype=torch.float32)etitem__x]s/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>███████████████████████████| 10/10 [01:09<00:00,  6.94s/it]

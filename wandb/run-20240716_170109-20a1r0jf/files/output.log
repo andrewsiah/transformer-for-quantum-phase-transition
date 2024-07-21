@@ -1,0 +1,30 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+
+
+Training Iterations:  90%|██████████████████████████████████████████████▊     | 9/10 [00:51<00:04,  4.84s/it]
+Training Iterations: 100%|███████████████████████████████████████████████████| 10/10 [00:57<00:00,  5.72s/it]
+Training Iterations:   0%|                                                            | 0/10 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/gpt2.py", line 147, in <module>
+    for i, (input_seq) in enumerate(tqdm(train_dataloader, desc="Training Iterations")):
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 631, in __next__
+    data = self._next_data()
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 675, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/user/as6154/dissert/gpt2.py", line 46, in __getitem__
+    return torch.tensor(sequence, dtype=torch.float32)
+KeyboardInterrupt

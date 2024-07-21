@@ -1,0 +1,29 @@
+
+  0%|          | 0/100 [00:00<?, ?it/s]
+Highest Loss at index: 0, Loss: 7789802.5
+Lowest Loss at index: 20, Loss: 7782708.5
+
+  1%|          | 1/100 [01:06<1:49:48, 66.55s/it]
+Highest Loss at index: 0, Loss: 7541685.5
+Lowest Loss at index: 20, Loss: 7534688.0
+Epoch [1/100], Step [200/200], Loss: 7538277.5
+Highest Loss at index: 0, Loss: 7284949.5
+Lowest Loss at index: 20, Loss: 7278086.5
+
+  1%|          | 1/100 [01:45<2:53:28, 105.13s/it]
+No such comm: ea7a51c6e12144e5b60787273e951ba4
+No such comm: b48635425db74daabbb0071b375f782c
+No such comm: 60b2aad88dac4f01abcffa62473edec7
+No such comm: 211764c1254b4c1ea89fe665fd0692a8
+No such comm: 8a41662a760747c6b26049bdc4550415
+No such comm: c8985cf14b3d403b83a5633898c02643
+No such comm: 6ec77e930a7b46f484a042669cef5f55
+No such comm: 07c5e6a3d7a14e739329e685fd6d6d3c
+No such comm: 3d62dfac2f2d4861a641abc10d2b98dc
+No such comm: 443fab32fbed4e969bd3ef6e493b2774
+No such comm: 38cc0c8d61934b24ade4b021dd80dde9
+No such comm: 467c893b1d5343d0b5590509132ebce6
+No such comm: d9c0752f9bc549eb92c0a7349505566d
+No such comm: 3c17786187dc41e3837fdbe23af24b3e
+No such comm: 0d428eec258246bcbf43d522aab3f505
+No such comm: 2cdcb83b422145fc8c68aaaf7244327c

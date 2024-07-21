@@ -1,0 +1,26 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+Training Iterations:  22%|███████████▋                                        | 9/40 [00:18<01:02,  2.03s/it]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/gpt2.py", line 161, in <module>
+    optimizer.step()
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/optim/lr_scheduler.py", line 75, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/optim/optimizer.py", line 391, in wrapper
+    out = func(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/optim/adamw.py", line 188, in step
+    adamw(
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/optim/adamw.py", line 340, in adamw
+    func(
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/optim/adamw.py", line 611, in _multi_tensor_adamw
+    torch._foreach_div_(exp_avg_sq_sqrt, bias_correction2_sqrt)
+KeyboardInterrupt

@@ -1,0 +1,165 @@
+{
+    "os": "Linux-4.19.0-25-amd64-x86_64-with-glibc2.28",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-07-14T19:45:37.772379",
+    "startedAt": "2024-07-14T19:45:37.376383",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/user/as6154/dissert/new_transformers.py",
+    "codePathLocal": null,
+    "host": "researchgpu01",
+    "username": "as6154",
+    "executable": "/user/as6154/.conda/envs/diss/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 1418.4924166666667,
+        "min": 1000.0,
+        "max": 3700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1000.033,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.42,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.006,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1400.049,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.015,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.137,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1009.72,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1557.073,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.014,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.654,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2495.474,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.153,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1026.169,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1601.114,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2112.939,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3063.953,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1663.969,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.358,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1013.885,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.304,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3049.527,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1158.301,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1889.549,
+            "min": 1000.0,
+            "max": 3700.0
+        },
+        {
+            "current": 1000.002,
+            "min": 1000.0,
+            "max": 3700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 93.7166748046875,
+            "used": 0.10956192016601562
+        }
+    },
+    "gpu": "Tesla V100-PCIE-32GB",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "Tesla V100-PCIE-32GB",
+            "memory_total": 34359738368
+        },
+        {
+            "name": "Tesla V100-PCIE-32GB",
+            "memory_total": 34359738368
+        }
+    ],
+    "memory": {
+        "total": 187.43334579467773
+    }
+}

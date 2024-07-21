@@ -1,0 +1,62 @@
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Current SDK version is 0.17.4
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Configure stats pid to 738028
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/.config/wandb/settings
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/dissert/wandb/settings
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-07-03 17:39:57,345 INFO    MainThread:738028 [wandb_init.py:_log_setup():529] Logging user logs to /user/as6154/dissert/wandb/run-20240703_173957-ya1cdp7w/logs/debug.log
+2024-07-03 17:39:57,346 INFO    MainThread:738028 [wandb_init.py:_log_setup():530] Logging internal logs to /user/as6154/dissert/wandb/run-20240703_173957-ya1cdp7w/logs/debug-internal.log
+2024-07-03 17:39:57,346 INFO    MainThread:738028 [wandb_init.py:init():569] calling init triggers
+2024-07-03 17:39:57,346 INFO    MainThread:738028 [wandb_init.py:init():576] wandb.init called with sweep_config: {}
+config: {}
+2024-07-03 17:39:57,347 INFO    MainThread:738028 [wandb_init.py:init():594] re-initializing run, found existing run on stack: k1h6d7o2
+2024-07-03 17:39:57,361 INFO    MainThread:738028 [wandb_run.py:_finish():2109] finishing run hong-exploration/GPT_QFT/k1h6d7o2
+2024-07-03 17:39:57,361 INFO    MainThread:738028 [jupyter.py:save_history():444] not saving jupyter history
+2024-07-03 17:39:57,362 INFO    MainThread:738028 [jupyter.py:save_ipynb():372] not saving jupyter notebook
+2024-07-03 17:39:57,362 INFO    MainThread:738028 [wandb_init.py:_jupyter_teardown():457] cleaning up jupyter logic
+2024-07-03 17:39:57,362 INFO    MainThread:738028 [wandb_run.py:_atexit_cleanup():2349] got exitcode: 0
+2024-07-03 17:39:57,362 INFO    MainThread:738028 [wandb_run.py:_restore():2332] restore
+2024-07-03 17:39:57,363 INFO    MainThread:738028 [wandb_run.py:_restore():2338] restore done
+2024-07-03 17:40:05,594 INFO    MainThread:738028 [wandb_run.py:_footer_history_summary_info():3991] rendering history
+2024-07-03 17:40:05,594 INFO    MainThread:738028 [wandb_run.py:_footer_history_summary_info():4023] rendering summary
+2024-07-03 17:40:05,609 INFO    MainThread:738028 [wandb_run.py:_footer_sync_info():3950] logging synced files
+2024-07-03 17:40:05,651 INFO    MainThread:738028 [wandb_init.py:init():619] starting backend
+2024-07-03 17:40:05,652 INFO    MainThread:738028 [wandb_init.py:init():623] setting up manager
+2024-07-03 17:40:05,654 INFO    MainThread:738028 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-07-03 17:40:05,655 INFO    MainThread:738028 [wandb_init.py:init():631] backend started and connected
+2024-07-03 17:40:05,665 INFO    MainThread:738028 [wandb_run.py:_label_probe_notebook():1334] probe notebook
+2024-07-03 17:40:05,665 INFO    MainThread:738028 [wandb_run.py:_label_probe_notebook():1344] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-07-03 17:40:05,665 INFO    MainThread:738028 [wandb_init.py:init():720] updated telemetry
+2024-07-03 17:40:05,667 INFO    MainThread:738028 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-07-03 17:40:06,820 INFO    MainThread:738028 [wandb_run.py:_on_init():2402] communicating current version
+2024-07-03 17:40:06,843 INFO    MainThread:738028 [wandb_run.py:_on_init():2411] got version response 
+2024-07-03 17:40:06,843 INFO    MainThread:738028 [wandb_init.py:init():804] starting run threads in backend
+2024-07-03 17:40:13,474 INFO    MainThread:738028 [wandb_run.py:_console_start():2380] atexit reg
+2024-07-03 17:40:13,474 INFO    MainThread:738028 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2024-07-03 17:40:13,474 INFO    MainThread:738028 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2024-07-03 17:40:13,474 INFO    MainThread:738028 [wandb_run.py:_redirect():2325] Redirects installed.
+2024-07-03 17:40:13,475 INFO    MainThread:738028 [wandb_init.py:init():847] run started, returning control to user process
+2024-07-03 17:40:39,610 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Current SDK version is 0.17.4
+2024-07-03 17:40:39,610 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Configure stats pid to 738028
+2024-07-03 17:40:39,610 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/.config/wandb/settings
+2024-07-03 17:40:39,610 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Loading settings from /user/as6154/dissert/wandb/settings
+2024-07-03 17:40:39,610 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-07-03 17:40:39,610 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-07-03 17:40:39,611 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-07-03 17:40:39,611 INFO    MainThread:738028 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-07-03 17:40:39,612 INFO    MainThread:738028 [wandb_init.py:_log_setup():529] Logging user logs to /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/logs/debug.log
+2024-07-03 17:40:39,612 INFO    MainThread:738028 [wandb_init.py:_log_setup():530] Logging internal logs to /user/as6154/dissert/wandb/run-20240703_174039-yhzzeah5/logs/debug-internal.log
+2024-07-03 17:40:39,612 INFO    MainThread:738028 [wandb_init.py:_jupyter_setup():475] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f3b41305d60>
+2024-07-03 17:40:39,612 INFO    MainThread:738028 [wandb_init.py:init():569] calling init triggers
+2024-07-03 17:40:39,612 INFO    MainThread:738028 [wandb_init.py:init():576] wandb.init called with sweep_config: {}
+config: {}
+2024-07-03 17:40:39,612 INFO    MainThread:738028 [wandb_init.py:init():594] re-initializing run, found existing run on stack: ya1cdp7w
+2024-07-03 17:40:39,614 INFO    MainThread:738028 [wandb_run.py:_finish():2109] finishing run hong-exploration/GPT_QFT/ya1cdp7w
+2024-07-03 17:40:39,614 INFO    MainThread:738028 [wandb_run.py:_atexit_cleanup():2349] got exitcode: 0
+2024-07-03 17:40:39,615 INFO    MainThread:738028 [wandb_run.py:_restore():2332] restore
+2024-07-03 17:40:39,616 INFO    MainThread:738028 [wandb_run.py:_restore():2338] restore done
+2024-07-03 17:40:45,452 INFO    MainThread:738028 [wandb_run.py:_footer_history_summary_info():3991] rendering history
+2024-07-03 17:40:45,453 INFO    MainThread:738028 [wandb_run.py:_footer_history_summary_info():4023] rendering summary
+2024-07-03 17:40:45,490 INFO    MainThread:738028 [wandb_run.py:_footer_sync_info():3950] logging synced files

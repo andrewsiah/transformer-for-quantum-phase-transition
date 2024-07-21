@@ -1,0 +1,107 @@
+Training...
+Epoch 0
+
+
+
+
+
+
+
+Training Iterations:  88%|███████████████████████████████████████████████████████████████████████████████████████████████████▊              | 7/8 [00:46<00:05,  5.82s/it]
+Training Iterations: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:52<00:00,  6.51s/it]
+
+Training Iterations:  12%|██████████████▎                                                                                                   | 1/8 [00:05<00:38,  5.47s/it]
+Highest Loss at index: 0, Loss: 10375481.0
+Lowest Loss at index: 991, Loss: 10357828.0
+
+
+
+
+
+
+
+Training Iterations: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [01:50<00:00,  8.00s/it]
+Training Iterations: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [01:50<00:00, 13.77s/it]
+
+
+
+Training Iterations:  38%|██████████████████████████████████████████▊                                                                       | 3/8 [00:16<00:27,  5.52s/it]
+Highest Loss at index: 0, Loss: 10371092.0
+Lowest Loss at index: 991, Loss: 10353444.0
+
+
+
+
+Training Iterations:  88%|███████████████████████████████████████████████████████████████████████████████████████████████████▊              | 7/8 [01:45<00:12, 12.98s/it]
+Training Iterations: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [01:50<00:00, 13.83s/it]
+
+
+
+
+
+Training Iterations:  62%|███████████████████████████████████████████████████████████████████████▎                                          | 5/8 [00:27<00:16,  5.55s/it]
+Highest Loss at index: 0, Loss: 10365161.0
+Lowest Loss at index: 991, Loss: 10347520.0
+
+
+Training Iterations:  88%|███████████████████████████████████████████████████████████████████████████████████████████████████▊              | 7/8 [01:45<00:20, 20.73s/it]
+Training Iterations: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [01:50<00:00, 13.84s/it]
+
+
+
+
+
+
+
+Training Iterations:  88%|█████████████████████   | 7/8 [00:38<00:05,  5.53s/it]
+Highest Loss at index: 0, Loss: 10356321.0
+Lowest Loss at index: 991, Loss: 10338688.0
+Epoch [5/200], Step [8/8], Loss: 10349575.0
+Training Iterations: 100%|████████████████████████| 8/8 [01:50<00:00, 13.82s/it]
+
+
+
+
+
+
+
+Training Iterations:  88%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                  | 7/8 [00:38<00:05,  5.53s/it]
+Training Iterations: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:44<00:00,  5.53s/it]
+
+Training Iterations:  12%|██████████████████▍                                                                                                                                | 1/8 [00:44<05:10, 44.32s/it]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/gpt2.py", line 185, in <module>
+    evaluate_model(model, test_dataloader, device, loss_fn, loss_fp)
+  File "/user/as6154/dissert/gpt2.py", line 134, in evaluate_model
+    test_output = model(test_input_seq)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/dissert/gpt2.py", line 89, in forward
+    output = self._backbone(inputs_embeds=embeds).last_hidden_state
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 1235, in forward
+    outputs = block(
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 757, in forward
+    feed_forward_hidden_states = self.mlp(hidden_states)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 682, in forward
+    hidden_states = self.c_proj(hidden_states)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/user/as6154/.conda/envs/diss/lib/python3.9/site-packages/transformers/pytorch_utils.py", line 104, in forward
+    x = torch.addmm(self.bias, x.view(-1, x.size(-1)), self.weight)
+KeyboardInterrupt

@@ -1,0 +1,19 @@
+
+  0%|                                                                                                                     | 0/100 [00:03<?, ?it/s]
+Traceback (most recent call last):
+  File "/user/as6154/dissert/new_transformers.py", line 139, in <module>
+    model.to(device)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1173, in to
+    return self._apply(convert)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 779, in _apply
+    module._apply(fn)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 779, in _apply
+    module._apply(fn)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 779, in _apply
+    module._apply(fn)
+  [Previous line repeated 2 more times]
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 804, in _apply
+    param_applied = fn(param)
+  File "/user/as6154/.conda/envs/poetry/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1159, in convert
+    return t.to(
+KeyboardInterrupt
